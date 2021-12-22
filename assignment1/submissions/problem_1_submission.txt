@@ -1,0 +1,20 @@
+200
+{
+    "data": {
+        "id": "1460737008494600198",
+        "text": "@canonbee Todo se pega \ud83d\ude09"
+    }
+}
+Text decoded UTF-8: @canonbee Todo se pega 😉
+{
+    "data": {
+        "id": "1460737012697292801",
+        "text": "RT @BlackedViper: Talk with you for free when i look like this? Ill pass, and im sure youre used to hearing that anyways \ud83d\udc8b\ud83d\udc37 \n\nFinD https://\u2026"
+    }
+}
+Text decoded UTF-8: RT @BlackedViper: Talk with you for free when i look like this? Ill pass, and im sure youre used to hearing that anyways 💋🐷 
+
+FinD https://…
+{
+    "data": {
+        "id": "1460737012680388610",

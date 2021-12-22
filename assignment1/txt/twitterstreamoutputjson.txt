@@ -1,0 +1,2462 @@
+200
+{
+    "data": {
+        "id": "1460737008494600198",
+        "text": "@canonbee Todo se pega \ud83d\ude09"
+    }
+}
+Text decoded UTF-8: @canonbee Todo se pega 😉
+{
+    "data": {
+        "id": "1460737012697292801",
+        "text": "RT @BlackedViper: Talk with you for free when i look like this? Ill pass, and im sure youre used to hearing that anyways \ud83d\udc8b\ud83d\udc37 \n\nFinD https://\u2026"
+    }
+}
+Text decoded UTF-8: RT @BlackedViper: Talk with you for free when i look like this? Ill pass, and im sure youre used to hearing that anyways 💋🐷 
+
+FinD https://…
+{
+    "data": {
+        "id": "1460737012680388610",
+        "text": "@kurohatokoha \u306f\u30fc\u3044(*^^*)"
+    }
+}
+Text decoded UTF-8: @kurohatokoha はーい(*^^*)
+{
+    "data": {
+        "id": "1460737012697378826",
+        "text": "@DiaazJh Se duvidar, as meninas surram o time masculino"
+    }
+}
+Text decoded UTF-8: @DiaazJh Se duvidar, as meninas surram o time masculino
+{
+    "data": {
+        "id": "1460737008507174920",
+        "text": "@bennyjohnson I haven\u2019t heard anyone talk about trickle down economics in over twenty years. But it does work, when the big guy isn\u2019t taking his ten percent of everything"
+    }
+}
+Text decoded UTF-8: @bennyjohnson I haven’t heard anyone talk about trickle down economics in over twenty years. But it does work, when the big guy isn’t taking his ten percent of everything
+{
+    "data": {
+        "id": "1460737012688990215",
+        "text": "RT @Mylittlemochii_: \ufe4f\ud83e\udda2\ufe4f \n\n#MAMAVOTE\u00a0#bts @BTS_twt\n https://t.co/uZgIKOhDr2"
+    }
+}
+Text decoded UTF-8: RT @Mylittlemochii_: ﹏🦢﹏ 
+
+#MAMAVOTE #bts @BTS_twt
+ https://t.co/uZgIKOhDr2
+{
+    "data": {
+        "id": "1460737012693098501",
+        "text": "RT @MakeItRayn_: A snippet from my recent TikTok discussing how states, particularly settler colonies, weaponize the term \u201cterrorism\u201d to un\u2026"
+    }
+}
+Text decoded UTF-8: RT @MakeItRayn_: A snippet from my recent TikTok discussing how states, particularly settler colonies, weaponize the term “terrorism” to un…
+{
+    "data": {
+        "id": "1460737012697341955",
+        "text": "RT @kherl_arts: Jinx is here #arcane https://t.co/DffWXp76ej"
+    }
+}
+Text decoded UTF-8: RT @kherl_arts: Jinx is here #arcane https://t.co/DffWXp76ej
+{
+    "data": {
+        "id": "1460737012672221187",
+        "text": "@NeilimeB Le 21 qui tr\u00e9buche ma r\u00e9gale"
+    }
+}
+Text decoded UTF-8: @NeilimeB Le 21 qui trébuche ma régale
+{
+    "data": {
+        "id": "1460737012701487108",
+        "text": "RT @JKSteinberger: Really exciting development in Switzerland! It's fantastic to be part of this group of thinkers and doers. Register for\u2026"
+    }
+}
+Text decoded UTF-8: RT @JKSteinberger: Really exciting development in Switzerland! It's fantastic to be part of this group of thinkers and doers. Register for…
+{
+    "data": {
+        "id": "1460737012697341963",
+        "text": "@ZayIntheLife @DaddycoonSOD @HYYERlearning \ud83d\ude02"
+    }
+}
+Text decoded UTF-8: @ZayIntheLife @DaddycoonSOD @HYYERlearning 😂
+{
+    "data": {
+        "id": "1460737012697341964",
+        "text": "Odd socks day at school\ud83e\udde6\ud83c\udfeb\ud83d\udc67 @malvernprimary https://t.co/y0oVjdjFf3"
+    }
+}
+Text decoded UTF-8: Odd socks day at school🧦🏫👧 @malvernprimary https://t.co/y0oVjdjFf3
+{
+    "data": {
+        "id": "1460737012693151744",
+        "text": "kocham go synek moj najlepszy https://t.co/B0RPIfXaiG"
+    }
+}
+Text decoded UTF-8: kocham go synek moj najlepszy https://t.co/B0RPIfXaiG
+{
+    "data": {
+        "id": "1460737012697219075",
+        "text": "RT @milk_g0re: BABE WAKE UP!! New blursed drop!! (All products are limited edition)\ud83e\udd0dhttps://t.co/ZlW87o5x78 https://t.co/SCBn8Dykr3"
+    }
+}
+Text decoded UTF-8: RT @milk_g0re: BABE WAKE UP!! New blursed drop!! (All products are limited edition)🤍https://t.co/ZlW87o5x78 https://t.co/SCBn8Dykr3
+{
+    "data": {
+        "id": "1460737012680454144",
+        "text": "@tech_52 The media wants Trump back because they miss the ratings they got covering that dumpster fire of a person.\n\nRemember what CBS CEO said: https://t.co/tUlcuhgJcq"
+    }
+}
+Text decoded UTF-8: @tech_52 The media wants Trump back because they miss the ratings they got covering that dumpster fire of a person.
+
+Remember what CBS CEO said: https://t.co/tUlcuhgJcq
+{
+    "data": {
+        "id": "1460737016878927874",
+        "text": "RT @saTPr819CZ5SZAK: \u8077\u5834\u306e\u9a12\u97f3\u554f\u984c\u306e\u89e3\u6c7a\u306b\u4e0a\u53f8\u304c\u51fa\u3057\u305f\u5999\u6848\u300e\u81ea\u7136\u97f3\u306e\u53d6\u308a\u5165\u308c\u300f\u304c\u4e88\u60f3\u5916\u306e\u7d50\u672b\u306b\u2026\uff62\u305d\u3053\u306b\u4fbf\u5229\u3055\u3092\u6c42\u3081\u3066\u306f\u3044\u3051\u306a\u3044\uff63 - Togetter https://t.co/AJUaqopzYk."
+    }
+}
+Text decoded UTF-8: RT @saTPr819CZ5SZAK: 職場の騒音問題の解決に上司が出した妙案『自然音の取り入れ』が予想外の結末に…｢そこに便利さを求めてはいけない｣ - Togetter https://t.co/AJUaqopzYk.
+{
+    "data": {
+        "id": "1460737012701577216",
+        "text": "O homem tem o dom. https://t.co/clECu42i8Q"
+    }
+}
+Text decoded UTF-8: O homem tem o dom. https://t.co/clECu42i8Q
+{
+    "data": {
+        "id": "1460737012663824388",
+        "text": "Listen now Empty Frames - E.B &amp; The Deadlights @DeadlightsNI via @sanpruk Please RT listen and check https://t.co/knqY5XH5hH https://t.co/mhZICikZ9W"
+    }
+}
+Text decoded UTF-8: Listen now Empty Frames - E.B &amp; The Deadlights @DeadlightsNI via @sanpruk Please RT listen and check https://t.co/knqY5XH5hH https://t.co/mhZICikZ9W
+{
+    "data": {
+        "id": "1460737012668014592",
+        "text": "Na semana de interven\u00e7\u00e3o vou morrer.\nAdeus e at\u00e9 um dia"
+    }
+}
+Text decoded UTF-8: Na semana de intervenção vou morrer.
+Adeus e até um dia
+{
+    "data": {
+        "id": "1460737016883150854",
+        "text": "@__yasumoto__ \u304a\u306f\u3088\u3046\u3054\u3056\u3044\u307e\u3059(*^^*)"
+    }
+}
+Text decoded UTF-8: @__yasumoto__ おはようございます(*^^*)
+{
+    "data": {
+        "id": "1460737016891535363",
+        "text": "@tokopedia 4926\n#SNdiWIBKpopAwards #TokopediaxSecretNumber"
+    }
+}
+Text decoded UTF-8: @tokopedia 4926
+#SNdiWIBKpopAwards #TokopediaxSecretNumber
+{
+    "data": {
+        "id": "1460737012693016576",
+        "text": "RT @twst_soku: \u3010\u30c4\u30a4\u30b9\u30c6\u3011ATKDOWN(\u5927)Lv10\u3092\u91cd\u306d\u304c\u3051\u3059\u308b\u3068\u30c0\u30e1\u30fc\u30b80\u306b\u306a\u308b\u3053\u3068\u3092\u4eca\u65e5\u521d\u3081\u3066\u77e5\u3063\u305f #\u30c4\u30a4\u30b9\u30c6 #\u30f4\u30a3\u30e9\u30f3\u30ba https://t.co/YdZ13xqS1I"
+    }
+}
+Text decoded UTF-8: RT @twst_soku: 【ツイステ】ATKDOWN(大)Lv10を重ねがけするとダメージ0になることを今日初めて知った #ツイステ #ヴィランズ https://t.co/YdZ13xqS1I
+{
+    "data": {
+        "id": "1460737012672180228",
+        "text": "RT @7amoodi6: \u0641\u064a\u062f\u064a\u0648 \u0645\u0645\u064a\u0632\u0627\u062a \u0648\u0639\u064a\u0648\u0628 \u0627\u062d\u062f\u062b \u0627\u062c\u0647\u0632\u0629 #HONOR \n\n\u0627\u0647\u0645 \u0627\u0644\u0646\u0642\u0627\u0637 \u0628\u0647\u0627\u062a\u0641 #HONOR50Lite \n\n\u2705\u062f\u0639\u0645 \u062e\u062f\u0645\u0627\u062a \u0642\u0648\u0642\u0644 \n\ud83d\udcf1 \u0634\u0627\u0634\u0629 6.67 \u0628\u0648\u0635\u0629\n\ud83d\udcf8 \u0643\u0627\u0645\u064a\u0631\u0627 \u0631\u0628\u0627\u0639\u064a\u0629 64 \u0645\u2026"
+    }
+}
+Text decoded UTF-8: RT @7amoodi6: فيديو مميزات وعيوب احدث اجهزة #HONOR 
+
+اهم النقاط بهاتف #HONOR50Lite 
+
+✅دعم خدمات قوقل 
+📱 شاشة 6.67 بوصة
+📸 كاميرا رباعية 64 م…
+{
+    "data": {
+        "id": "1460737012701577217",
+        "text": "Vacina do crl porra"
+    }
+}
+Text decoded UTF-8: Vacina do crl porra
+{
+    "data": {
+        "id": "1460737012672176136",
+        "text": "RT @belovedkiri: you cant tell me they dont have a bromance going on, cmon #serokami #kamisero https://t.co/3NB5UOUm4g"
+    }
+}
+Text decoded UTF-8: RT @belovedkiri: you cant tell me they dont have a bromance going on, cmon #serokami #kamisero https://t.co/3NB5UOUm4g
+{
+    "data": {
+        "id": "1460737016887320577",
+        "text": "@gonbe_ngplus \u304a\u306f\u3088\u3046\u3054\u3056\u3044\u307e\u3059\uff01"
+    }
+}
+Text decoded UTF-8: @gonbe_ngplus おはようございます！
+{
+    "data": {
+        "id": "1460737012684701698",
+        "text": "RT @mirandoenmi: @GinaJardines Esa segunda oportunidad te la debes dar t\u00fa y valorar si realmente quieres volver a intentarlo con esa person\u2026"
+    }
+}
+Text decoded UTF-8: RT @mirandoenmi: @GinaJardines Esa segunda oportunidad te la debes dar tú y valorar si realmente quieres volver a intentarlo con esa person…
+{
+    "data": {
+        "id": "1460737008494596103",
+        "text": "@aishaksks_ deus olhando o motivo da garganta ta assim \ud83c\udf1a"
+    }
+}
+Text decoded UTF-8: @aishaksks_ deus olhando o motivo da garganta ta assim 🌚
+{
+    "data": {
+        "id": "1460737008469348357",
+        "text": "RT @hentaai_video: \u75f4\u5973\u3063\u6c17\u304c\u52a0\u901f\u3059\u308b\u5ac1\u306e\u59b9\u300c\u5929\u4f7f\u3082\u3048\u300d\n\n\u3082\u3048\u3061\u3083\u3093\u306b\u9854\u5c04\u3057\u305f\u3059\u304e\u305f\u3002\n https://t.co/YDHc0qf014"
+    }
+}
+Text decoded UTF-8: RT @hentaai_video: 痴女っ気が加速する嫁の妹「天使もえ」
+
+もえちゃんに顔射したすぎた。
+ https://t.co/YDHc0qf014
+{
+    "data": {
+        "id": "1460737016862105602",
+        "text": "RT @TargetsEnglish: Idioms: Business &amp; Work \n\n\u201cWe need to scale back spending.\"\n\n\u2022 scale back = to reduce. Also: scale down.\n\u2192 Many compani\u2026"
+    }
+}
+Text decoded UTF-8: RT @TargetsEnglish: Idioms: Business &amp; Work 
+
+“We need to scale back spending."
+
+• scale back = to reduce. Also: scale down.
+→ Many compani…
+{
+    "data": {
+        "id": "1460737012663824386",
+        "text": "En 5 d\u00edas ya juega el Real Madrid \ud83e\udd0d #HalaMadrid https://t.co/zvjDw2Dtvb"
+    }
+}
+Text decoded UTF-8: En 5 días ya juega el Real Madrid 🤍 #HalaMadrid https://t.co/zvjDw2Dtvb
+{
+    "data": {
+        "id": "1460737016895885312",
+        "text": "RT @elaelmi: Kucakta nas\u0131l da dans ediyorum \u00fcstelik m\u00fczik siz https://t.co/ebKWJs0qfo"
+    }
+}
+Text decoded UTF-8: RT @elaelmi: Kucakta nasıl da dans ediyorum üstelik müzik siz https://t.co/ebKWJs0qfo
+{
+    "data": {
+        "id": "1460737016887349250",
+        "text": "\u30a2\u30aa\u30e2\u30ea\u72ed\u3044"
+    }
+}
+Text decoded UTF-8: アオモリ狭い
+{
+    "data": {
+        "id": "1460737016866304002",
+        "text": "... https://t.co/J6YUYo1DVD"
+    }
+}
+Text decoded UTF-8: ... https://t.co/J6YUYo1DVD
+{
+    "data": {
+        "id": "1460737016874901506",
+        "text": "RT @EnriquePenalosa: Gracias a SEMANA por publicar la introducci\u00f3n de mi libro CIUDAD, IGUALDAD, FELICIDAD. https://t.co/ymKRfLPaCc"
+    }
+}
+Text decoded UTF-8: RT @EnriquePenalosa: Gracias a SEMANA por publicar la introducción de mi libro CIUDAD, IGUALDAD, FELICIDAD. https://t.co/ymKRfLPaCc
+{
+    "data": {
+        "id": "1460737016874905608",
+        "text": "@Limeoff \u0411\u043b\u0438\u043d, \u044d\u0442\u043e \u043f\u0430\u0440\u0430\u043d\u043e\u0439\u044f. \u0417\u0430 \u0441\u043e\u0431\u043e\u0439 \u0442\u043e\u0436\u0435 \u0442\u0430\u043a\u043e\u0435 \u0437\u0430\u043c\u0435\u0447\u0430\u043b \ud83e\udd37\u200d\u2642\ufe0f \u041d\u043e \u0442\u0430\u043a \u043d\u0430\u0434\u043e. \u041b\u0443\u0447\u0448\u0435 \u043f\u0435\u0440\u0435\u0431\u0437\u0434\u0435\u0442\u044c, \u0447\u0435\u043c \u043d\u0435 \u0434\u043e\u0431\u0437\u0434\u0435\u0442\u044c \ud83e\udd37\u200d\u2642\ufe0f\ud83d\ude44"
+    }
+}
+Text decoded UTF-8: @Limeoff Блин, это паранойя. За собой тоже такое замечал 🤷‍♂️ Но так надо. Лучше перебздеть, чем не добздеть 🤷‍♂️🙄
+{
+    "data": {
+        "id": "1460737012668018698",
+        "text": "RT @HStylesWrld: \ud83d\udd0d| La marca de cosm\u00e9ticos de @Harry_Styles se encuentra libre de crueldad animal y es 100% vegana al no utilizar ning\u00fan pr\u2026"
+    }
+}
+Text decoded UTF-8: RT @HStylesWrld: 🔍| La marca de cosméticos de @Harry_Styles se encuentra libre de crueldad animal y es 100% vegana al no utilizar ningún pr…
+{
+    "data": {
+        "id": "1460737012672217090",
+        "text": "\u0645\u0641\u0631\u0648\u0636 \u0627\u0646\u0627\u0645 \u0627\u0644\u062d\u064a\u0646 \u0628\u0633 \u062a\u062e\u064a\u0644\u062a \u0627\u0646\u064a \u0646\u0633\u064a\u062a \u0627\u0644\u0642\u0648\u0627\u0639\u062f \u0648\u0631\u062d\u062a \u0643\u062a\u0628\u062a\u0647\u0627 \u0643\u0644\u0647\u0627 \u0628\u0627\u0644\u0645\u0644\u0627\u062d\u0638\u0627\u062a\ud83d\ude1e"
+    }
+}
+Text decoded UTF-8: مفروض انام الحين بس تخيلت اني نسيت القواعد ورحت كتبتها كلها بالملاحظات😞
+{
+    "data": {
+        "id": "1460737016891682823",
+        "text": "Stolk yapmaya geldim gidicemm \ud83e\udd23\ud83e\udd23"
+    }
+}
+Text decoded UTF-8: Stolk yapmaya geldim gidicemm 🤣🤣
+{
+    "data": {
+        "id": "1460737016891645956",
+        "text": "@lesboraiden @fawryas same"
+    }
+}
+Text decoded UTF-8: @lesboraiden @fawryas same
+{
+    "data": {
+        "id": "1460737016870711298",
+        "text": "RT @linsaquiles: Lula critica Estados Unidos e diz que Brasil nunca teve cultura anti-EUA. \"Mas permita que a gente entre no jogo. O que n\u00e3\u2026"
+    }
+}
+Text decoded UTF-8: RT @linsaquiles: Lula critica Estados Unidos e diz que Brasil nunca teve cultura anti-EUA. "Mas permita que a gente entre no jogo. O que nã…
+{
+    "data": {
+        "id": "1460737012684800000",
+        "text": "@Pathryn34 Also, that convention center is HUGE.\n\nIt will take two wranglers apiece to get\nJared AND \"Surprise Guest\" to the right place at the right time."
+    }
+}
+Text decoded UTF-8: @Pathryn34 Also, that convention center is HUGE.
+
+It will take two wranglers apiece to get
+Jared AND "Surprise Guest" to the right place at the right time.
+{
+    "data": {
+        "id": "1460737016857960448",
+        "text": "RT @WandamaximofG: I love cum"
+    }
+}
+Text decoded UTF-8: RT @WandamaximofG: I love cum
+{
+    "data": {
+        "id": "1460737016878960643",
+        "text": "@takenbyna HAHAHSHAHSHYAKAN ANJIIEENGG\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d"
+    }
+}
+Text decoded UTF-8: @takenbyna HAHAHSHAHSHYAKAN ANJIIEENGG😭😭😭
+{
+    "data": {
+        "id": "1460737008473714688",
+        "text": "Hm t\u00e1 ok https://t.co/cEkaVAVoQU"
+    }
+}
+Text decoded UTF-8: Hm tá ok https://t.co/cEkaVAVoQU
+{
+    "data": {
+        "id": "1460737012667863040",
+        "text": "@yrn6080 \u304a\u306f\u3088\uff01"
+    }
+}
+Text decoded UTF-8: @yrn6080 おはよ！
+{
+    "data": {
+        "id": "1460737012701532161",
+        "text": "You mfs better vote for Mahiru https://t.co/6ua8pkK8Uc"
+    }
+}
+Text decoded UTF-8: You mfs better vote for Mahiru https://t.co/6ua8pkK8Uc
+{
+    "data": {
+        "id": "1460737016858136576",
+        "text": "As vezes voc\u00ea sabe que vai bater e acelera."
+    }
+}
+Text decoded UTF-8: As vezes você sabe que vai bater e acelera.
+{
+    "data": {
+        "id": "1460737016878956546",
+        "text": "RT @AriBerman: Breaking: Ohio Senate passes extreme gerrymandered Congressional map giving Republicans 80% of seats in state Trump won with\u2026"
+    }
+}
+Text decoded UTF-8: RT @AriBerman: Breaking: Ohio Senate passes extreme gerrymandered Congressional map giving Republicans 80% of seats in state Trump won with…
+{
+    "data": {
+        "id": "1460737016895836169",
+        "text": "RT @PatriiRamayon: la escuela me tiene re podridoo"
+    }
+}
+Text decoded UTF-8: RT @PatriiRamayon: la escuela me tiene re podridoo
+{
+    "data": {
+        "id": "1460737016891650055",
+        "text": "En 2 horitas sale el trailer de spiderman y ya me est\u00e1n comiendo los nervios"
+    }
+}
+Text decoded UTF-8: En 2 horitas sale el trailer de spiderman y ya me están comiendo los nervios
+{
+    "data": {
+        "id": "1460737016870670337",
+        "text": "esse perfil \u00e9 uma piada pronta \ud83d\udde3\ud83d\udde3 https://t.co/Xs5GeKp3nb"
+    }
+}
+Text decoded UTF-8: esse perfil é uma piada pronta 🗣🗣 https://t.co/Xs5GeKp3nb
+{
+    "data": {
+        "id": "1460737016858136577",
+        "text": "RT @telecasterChina: No es sensaci\u00f3n t\u00e9rmica! Son hechos!!! https://t.co/awHTJxwSwc"
+    }
+}
+Text decoded UTF-8: RT @telecasterChina: No es sensación térmica! Son hechos!!! https://t.co/awHTJxwSwc
+{
+    "data": {
+        "id": "1460737016883138563",
+        "text": "2\n\n20 from \ud83c\uddf5\ud83c\udded\n\n#AllAboutYugyeomDay\n#\ub2ec\ube5b\uac19\uc740\uc720\uacb8\uc774_\uc0dd\uc77c\ucd95\ud558\ud574 \n@yugyeom @GOT7Official https://t.co/UrFDzLV8jp"
+    }
+}
+Text decoded UTF-8: 2
+
+20 from 🇵🇭
+
+#AllAboutYugyeomDay
+#달빛같은유겸이_생일축하해 
+@yugyeom @GOT7Official https://t.co/UrFDzLV8jp
+{
+    "data": {
+        "id": "1460737016895791106",
+        "text": "@warmcolorss E che cazzo io sto aspettando per vederlo in italiano \ud83d\ude22\ud83d\ude22"
+    }
+}
+Text decoded UTF-8: @warmcolorss E che cazzo io sto aspettando per vederlo in italiano 😢😢
+{
+    "data": {
+        "id": "1460737021060677635",
+        "text": "RT @LouGarza86: https://t.co/3ZAVXValwp"
+    }
+}
+Text decoded UTF-8: RT @LouGarza86: https://t.co/3ZAVXValwp
+{
+    "data": {
+        "id": "1460737016895873025",
+        "text": "@mubzzz_h @Sxne19iv2 @Nathan3ii He is\ud83d\udc4d"
+    }
+}
+Text decoded UTF-8: @mubzzz_h @Sxne19iv2 @Nathan3ii He is👍
+{
+    "data": {
+        "id": "1460737016895836160",
+        "text": "Great Story - Master of fantasy, Dewey Reynolds, brings to life this epic story magic, action and adventure! @SUCCESS4DR https://t.co/k7coWltWZq https://t.co/PAlG3LOef4"
+    }
+}
+Text decoded UTF-8: Great Story - Master of fantasy, Dewey Reynolds, brings to life this epic story magic, action and adventure! @SUCCESS4DR https://t.co/k7coWltWZq https://t.co/PAlG3LOef4
+{
+    "data": {
+        "id": "1460737016887398404",
+        "text": "@Pablox_thefuck logo logo,amor!"
+    }
+}
+Text decoded UTF-8: @Pablox_thefuck logo logo,amor!
+{
+    "data": {
+        "id": "1460737016858087434",
+        "text": "RT @agustdfms: \u2661 missing them a lot https://t.co/DMNybhA2sx"
+    }
+}
+Text decoded UTF-8: RT @agustdfms: ♡ missing them a lot https://t.co/DMNybhA2sx
+{
+    "data": {
+        "id": "1460737021069066241",
+        "text": "@Lmspersonal @ArthurWeint Fez um v\u00eddeo ou outro . Elei\u00e7\u00f5es ano que vem \u00e9 o que importa renovar o congresso ."
+    }
+}
+Text decoded UTF-8: @Lmspersonal @ArthurWeint Fez um vídeo ou outro . Eleições ano que vem é o que importa renovar o congresso .
+{
+    "data": {
+        "id": "1460737012697341960",
+        "text": "@kok9nui UQ ELINDO"
+    }
+}
+Text decoded UTF-8: @kok9nui UQ ELINDO
+{
+    "data": {
+        "id": "1460737016866516995",
+        "text": "@kakese_leon @EngundaAlain @AhosiJaelle @CybelleKamba @AlainMake20 @sidis_samy @Le_dauphin_ADN @jacksonmukunda @DieuWedi1 @HonoreMvula1 @ilungajordan1 @kamba82 @beton_junior Alors nous attendons un plaidoyer Utile cher @kakese_leon , \u00e9tant donn\u00e9 que tu viens d'identifier la vraie probl\u00e9matique."
+    }
+}
+Text decoded UTF-8: @kakese_leon @EngundaAlain @AhosiJaelle @CybelleKamba @AlainMake20 @sidis_samy @Le_dauphin_ADN @jacksonmukunda @DieuWedi1 @HonoreMvula1 @ilungajordan1 @kamba82 @beton_junior Alors nous attendons un plaidoyer Utile cher @kakese_leon , étant donné que tu viens d'identifier la vraie problématique.
+{
+    "data": {
+        "id": "1460737021069066246",
+        "text": "\u4eba\u9593\u5e2b\u306d\u3047\u2026\u2026\u6c17\u306b\u306a\u3063\u3066\u306f\u3044\u308b\u3093\u3060\u3002\u3057\u304b\u3057\u6b86\u3069\u7834\u3089\u308c\u3066\u306f\u3044\u308b\u304c\u81ea\u6212\u304c\u2026\u2026"
+    }
+}
+Text decoded UTF-8: 人間師ねぇ……気になってはいるんだ。しかし殆ど破られてはいるが自戒が……
+{
+    "data": {
+        "id": "1460737016887316483",
+        "text": "@Rs_key_ RusA\u3055\u3093\u3001\u304a\u306f\u3088\u3046\u3054\u3056\u3044\u307e\u3059\uff01\uff01\n\u304f\u3063\u305d\u5bd2\u3044\u3067\u3059\u306d\u2026"
+    }
+}
+Text decoded UTF-8: @Rs_key_ RusAさん、おはようございます！！
+くっそ寒いですね…
+{
+    "data": {
+        "id": "1460737021090013186",
+        "text": "@Facemetaverse @Bozane7 0x8BA3E69C4888D28764033C8A47E5A778Dc8619B1\n\n@Bozane7"
+    }
+}
+Text decoded UTF-8: @Facemetaverse @Bozane7 0x8BA3E69C4888D28764033C8A47E5A778Dc8619B1
+
+@Bozane7
+{
+    "data": {
+        "id": "1460737016883154947",
+        "text": "\u8389\u5b50\u3061\u3083\u3093\u304a\u306f\u3088\u3046 ~~\ud83d\udd05\n\u4eca\u65e5\u306f\u6570\u5b66\u306e\u5c0f\u30c6\u30b9\u30c8\u306a\u306e\u3067\u671d\u306e\u96fb\u8eca\u3067\u3082\u52c9\u5f37\u3057\u3066\u3044\u308b\u3068\u3053\u308d\u3067\u3059\ud83d\udcda\u270d\ud83c\udffb\n\u4eca\u65e5\u30821\u65e5\u9811\u5f35\u3063\u3066\u4e57\u308a\u8d8a\u3048\u3088\u3046\u306d\u270a\ud83c\udffb\u2755\n\u8389\u5b50\u3061\u3083\u3093\u306b\u3068\u3063\u3066\u4eca\u65e5\u304c\u7d20\u6575\u306a1\u65e5\u306b\u306a\u308a\u307e\u3059\u3088\u3046\u306b\ud83d\udd4a\n@riko_riko1204 \n#\u3055\u3044\u3068\u3046\u304b\u3089\u8389\u5b50\u3061\u3083\u3093\u3078\u306e\u304a\u306f\u3088\u3046\u30b3\u30fc\u30eb"
+    }
+}
+Text decoded UTF-8: 莉子ちゃんおはよう ~~🔅
+今日は数学の小テストなので朝の電車でも勉強しているところです📚✍🏻
+今日も1日頑張って乗り越えようね✊🏻❕
+莉子ちゃんにとって今日が素敵な1日になりますように🕊
+@riko_riko1204 
+#さいとうから莉子ちゃんへのおはようコール
+{
+    "data": {
+        "id": "1460737008473722880",
+        "text": "@AskSunTrust The Suntrust mobile sends me to Truist. I deleted suntrust app and downloaded Truist app.  Truist app will only let me into it if I login to Suntrust first . Truist says it doesnt recognize my login and password. Plus the app does not let me even attempt to do mobile deposits."
+    }
+}
+Text decoded UTF-8: @AskSunTrust The Suntrust mobile sends me to Truist. I deleted suntrust app and downloaded Truist app.  Truist app will only let me into it if I login to Suntrust first . Truist says it doesnt recognize my login and password. Plus the app does not let me even attempt to do mobile deposits.
+{
+    "data": {
+        "id": "1460737008482009095",
+        "text": "@Alxznh bg t\u2019as le lien du drumkit de kosei stp ?"
+    }
+}
+Text decoded UTF-8: @Alxznh bg t’as le lien du drumkit de kosei stp ?
+{
+    "data": {
+        "id": "1460737016870670339",
+        "text": "https://t.co/LtwKZvz0T9"
+    }
+}
+Text decoded UTF-8: https://t.co/LtwKZvz0T9
+{
+    "data": {
+        "id": "1460737021085827075",
+        "text": "@kaitoman_sc \u304a\u306f\u3088\u3046\u3054\u3056\u3044\u307e\u3059\uff01"
+    }
+}
+Text decoded UTF-8: @kaitoman_sc おはようございます！
+{
+    "data": {
+        "id": "1460737016862326787",
+        "text": "@leopold_jk @FHustede Halt die Fresse Kohlbrenner \ud83d\udc40"
+    }
+}
+Text decoded UTF-8: @leopold_jk @FHustede Halt die Fresse Kohlbrenner 👀
+{
+    "data": {
+        "id": "1460737016883302404",
+        "text": "RT @adrianvera_: contigo me perder\u00eda a media peda"
+    }
+}
+Text decoded UTF-8: RT @adrianvera_: contigo me perdería a media peda
+{
+    "data": {
+        "id": "1460737016874864644",
+        "text": "RT @euqueapanhe: cansada de ser boa demais e ngm valorizar porr4 nenhuma \ud83e\udd21\ud83e\udd21\ud83e\udd21\ud83e\udd21\ud83e\udd21\ud83e\udd21\ud83e\udd21\ud83e\udd21\ud83e\udd21\ud83e\udd21\ud83e\udd21\ud83e\udd21\ud83e\udd21\ud83e\udd21\ud83e\udd21\ud83e\udd21\ud83e\udd21\ud83e\udd21\ud83e\udd21\ud83e\udd21\ud83e\udd21\ud83e\udd21"
+    }
+}
+Text decoded UTF-8: RT @euqueapanhe: cansada de ser boa demais e ngm valorizar porr4 nenhuma 🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡
+{
+    "data": {
+        "id": "1460737016862326789",
+        "text": "RT @smijudraws: haven't drawn @MorylHellurio 's gal in a while \ud83d\udda4\u2764\ufe0f https://t.co/6VJNBZv6eQ"
+    }
+}
+Text decoded UTF-8: RT @smijudraws: haven't drawn @MorylHellurio 's gal in a while 🖤❤️ https://t.co/6VJNBZv6eQ
+{
+    "data": {
+        "id": "1460737016887402501",
+        "text": "@kenmafobicc KKKKK man"
+    }
+}
+Text decoded UTF-8: @kenmafobicc KKKKK man
+{
+    "data": {
+        "id": "1460737016874864641",
+        "text": "RT @rosiexofficial: Do I suit red lips ? \ud83d\udc84 https://t.co/2mMjpLP31e"
+    }
+}
+Text decoded UTF-8: RT @rosiexofficial: Do I suit red lips ? 💄 https://t.co/2mMjpLP31e
+{
+    "data": {
+        "id": "1460737016879013905",
+        "text": "RT @tetfran: No estoy. https://t.co/GQ9AWZkuvN"
+    }
+}
+Text decoded UTF-8: RT @tetfran: No estoy. https://t.co/GQ9AWZkuvN
+{
+    "data": {
+        "id": "1460737021069037570",
+        "text": "RT @khi_131: #MAMAVOTE #astro"
+    }
+}
+Text decoded UTF-8: RT @khi_131: #MAMAVOTE #astro
+{
+    "data": {
+        "id": "1460737016887484423",
+        "text": "@sinist3rwitch Damn I know you can ride a dick"
+    }
+}
+Text decoded UTF-8: @sinist3rwitch Damn I know you can ride a dick
+{
+    "data": {
+        "id": "1460737021077450754",
+        "text": "@MMiiii10829443 \u3068\u3044\u3046\u304b\u30b7\u30f3\u30b0\u30eb\u52e2\u306e\u79c1\u304b\u3089\u3057\u3066\u307f\u308c\u3070\uff0c\u30c0\u30d6\u30eb\u306a\u3093\u3066\u30a8\u30a2\u30d7\u306a\u3093\u3067\u3059\u304b\u3089\uff0c\u81ea\u5206\u3067\u30ec\u30fc\u30c8\u306b\u884c\u3051\u3070\u3069\u3046\u3067\u3059\uff1f\u307e\u305f\u79c1\u306f\u30c9\u30fc\u30d6\u30eb\u306b\u30c0\u30af\u30db\u8fd4\u305b\u3068\u306f\u8a00\u3063\u3066\u3044\u307e\u305b\u3093\u3002\n\u7d50\u5c40\u8cb4\u65b9\u304c\u30c0\u30fc\u30af\u30db\u30fc\u30eb\u306e\u629e\u306b\u6bce\u56de\u8ca0\u3051\u3066\uff0c\u6094\u3057\u304f\u3066\u5207\u65ad\u3057\u3066\u4e0d\u6109\u5feb\u3060\u3063\u305f\u304b\u3089\u3053\u3053\u307e\u3067\u53e9\u3044\u3066\u3044\u308b\u3093\u3058\u3083\u306a\u3044\u3067\u3059\u304b\uff1f"
+    }
+}
+Text decoded UTF-8: @MMiiii10829443 というかシングル勢の私からしてみれば，ダブルなんてエアプなんですから，自分でレートに行けばどうです？また私はドーブルにダクホ返せとは言っていません。
+結局貴方がダークホールの択に毎回負けて，悔しくて切断して不愉快だったからここまで叩いているんじゃないですか？
+{
+    "data": {
+        "id": "1460737016879013902",
+        "text": "RT @Teenshotss: \ud83d\udc8b\ud83d\udc8b\ud83c\udf39\ud83c\udf46 https://t.co/DIzPjfU5qN"
+    }
+}
+Text decoded UTF-8: RT @Teenshotss: 💋💋🌹🍆 https://t.co/DIzPjfU5qN
+{
+    "data": {
+        "id": "1460737016862236672",
+        "text": "@LoryPriv boys only want love if it's torture"
+    }
+}
+Text decoded UTF-8: @LoryPriv boys only want love if it's torture
+{
+    "data": {
+        "id": "1460737016895791107",
+        "text": "RT @weaselVFX: \ud83d\udc4b\ud83d\udc40 2x VALORANT BUNDLE GIVEAWAY \ud83d\udc4b\ud83e\udd29\n\nSteps to Enter \n\n\u2022 Like and Retweet this tweet\n\n\u2022 Follow @weaselVFX \n\n\u2022 Tag 3 Friends\n\nEn\u2026"
+    }
+}
+Text decoded UTF-8: RT @weaselVFX: 👋👀 2x VALORANT BUNDLE GIVEAWAY 👋🤩
+
+Steps to Enter 
+
+• Like and Retweet this tweet
+
+• Follow @weaselVFX 
+
+• Tag 3 Friends
+
+En…
+{
+    "data": {
+        "id": "1460737016870498305",
+        "text": "RT @UliiaOXA4RWJOQ6: 2015\u5e74\u30a2\u30a4\u30c9\u30eb\u904b\u52d5\u4f1a\u306e\u30d0\u30f3\u30bf\u30f3\u306e\u30c1\u30fc\u30e0\u540d\u306f\u300c\u793e\u9577\u306f\u8ab0\u3060\uff1f\u300d\ud83d\ude06\u7121\u540d\u306e\u4e8b\u52d9\u6240\u3092\u30c7\u30a3\u30b9\u3063\u305f\u30cd\u30fc\u30df\u30f3\u30b0\ud83d\ude0c\n\u305d\u3093\u306a\u5f7c\u3089\u304c\u4e16\u754c\u306b\u898b\u305b\u3064\u3051\u305f\u30a2\u30a4\u30c9\u30eb\u4eba\u751f\u306e\u904b\u52d5\u4f1a\u306f\u30c0\u30f3\u30c8\u30c41\u4f4d\u72ec\u8d70\u4e2d\n\u307b\u3089\u3001army\uff5e\u3063\u3066\u53eb\u3073\u306a\u304c\u3089\u3001\u4eca\u3082\u3053\u3046\u3057\u3066\u5168\u529b\u3067\u8d70\u308a\u7d9a\u3051\u3066\u3044\u308b\u2026"
+    }
+}
+Text decoded UTF-8: RT @UliiaOXA4RWJOQ6: 2015年アイドル運動会のバンタンのチーム名は「社長は誰だ？」😆無名の事務所をディスったネーミング😌
+そんな彼らが世界に見せつけたアイドル人生の運動会はダントツ1位独走中
+ほら、army～って叫びながら、今もこうして全力で走り続けている…
+{
+    "data": {
+        "id": "1460737016874905611",
+        "text": "todo dia eu me pergunto isso https://t.co/WE9zYzGfsp"
+    }
+}
+Text decoded UTF-8: todo dia eu me pergunto isso https://t.co/WE9zYzGfsp
+{
+    "data": {
+        "id": "1460737016878944258",
+        "text": "RT @ruchirsharma_1: @VikSoho Oh yes, and there was popular goodwill, sometimes outdoing even the state's appetite for anticolonialism.\n\nAs\u2026"
+    }
+}
+Text decoded UTF-8: RT @ruchirsharma_1: @VikSoho Oh yes, and there was popular goodwill, sometimes outdoing even the state's appetite for anticolonialism.
+
+As…
+{
+    "data": {
+        "id": "1460737021052428290",
+        "text": "CUPOM DE DESCONTO EM COMPRAS DE SUPERMERCADO 16/11/2021\nSUPERNOW \u2013 ganhe R$20 \u2013 use o c\u00f3digo 2062383\nCORNERSHOP  \u2013 ganhe R$20 e entrega gr\u00e1tis \u2013 acesse: https://t.co/fUXn7AiDyg\nAPP DAKI SUPERMERCADO 15 MINUTOS - ganhe R$50 - c\u00f3digo OS507250 https://t.co/s3ATqIIwhh"
+    }
+}
+Text decoded UTF-8: CUPOM DE DESCONTO EM COMPRAS DE SUPERMERCADO 16/11/2021
+SUPERNOW – ganhe R$20 – use o código 2062383
+CORNERSHOP  – ganhe R$20 e entrega grátis – acesse: https://t.co/fUXn7AiDyg
+APP DAKI SUPERMERCADO 15 MINUTOS - ganhe R$50 - código OS507250 https://t.co/s3ATqIIwhh
+{
+    "data": {
+        "id": "1460737021073313801",
+        "text": "@BholaBachcha Too much cow cola have damaged some people\u2019s brain cells.There was no Akhand Bharat and there will not be one.India will become a Gaand Bharat."
+    }
+}
+Text decoded UTF-8: @BholaBachcha Too much cow cola have damaged some people’s brain cells.There was no Akhand Bharat and there will not be one.India will become a Gaand Bharat.
+{
+    "data": {
+        "id": "1460737021081653250",
+        "text": "@realmsofeth This is a really great and excellent project. Thank you for this opportunity. I hope this project will continue to progress and successful"
+    }
+}
+Text decoded UTF-8: @realmsofeth This is a really great and excellent project. Thank you for this opportunity. I hope this project will continue to progress and successful
+{
+    "data": {
+        "id": "1460737021081751554",
+        "text": "@RuelRenata @Libertadores S\u00f3 as vidas negras importam ? Que mimimi de merda"
+    }
+}
+Text decoded UTF-8: @RuelRenata @Libertadores Só as vidas negras importam ? Que mimimi de merda
+{
+    "data": {
+        "id": "1460737021068988419",
+        "text": "RT @pthaipeera: \u0e19\u0e49\u0e2d\u0e07 \u0e21.4 \u0e02\u0e2d\u0e23\u0e38\u0e01 https://t.co/riHaFHYsCO"
+    }
+}
+Text decoded UTF-8: RT @pthaipeera: น้อง ม.4 ขอรุก https://t.co/riHaFHYsCO
+{
+    "data": {
+        "id": "1460737025284317190",
+        "text": "@otaku_12300 \u3160\u3160 \uc65c \uc774\uac78 \uc9c0\uae08\ubcf4\ub2e4\ub2c8 \ud750\uc544\uc544\uc544 \ub118 \uc88b\uc544\uc694 \ud83d\ude2d\ud83d\udc9b\ud83d\udda4\ud83d\udc9b\ud83d\udda4"
+    }
+}
+Text decoded UTF-8: @otaku_12300 ㅠㅠ 왜 이걸 지금보다니 흐아아아 넘 좋아요 😭💛🖤💛🖤
+{
+    "data": {
+        "id": "1460737021081788432",
+        "text": "@v_itoriacrf REVOADA DO NEGO \ud83d\ude08\n\nTRAGAM SUAS BEBIDAS \ud83d\ude1c"
+    }
+}
+Text decoded UTF-8: @v_itoriacrf REVOADA DO NEGO 😈
+
+TRAGAM SUAS BEBIDAS 😜
+{
+    "data": {
+        "id": "1460737025254912004",
+        "text": "RT @nijyu7_m: https://t.co/vJveKply0x"
+    }
+}
+Text decoded UTF-8: RT @nijyu7_m: https://t.co/vJveKply0x
+{
+    "data": {
+        "id": "1460737021081645060",
+        "text": "@ShopeeID Shopee 12.12 #1212ShopeeJackieChan #ShopeeBirthdaySale #1212CumadiShopee\n\nShopee 12.12 #1212ShopeeJackieChan #ShopeeBirthdaySale #1212CumadiShopee\n\nShopee 12.12 #1212ShopeeJackieChan #ShopeeBirthdaySale #1212CumadiShopee\n\n\ud83d\ude4f3.184"
+    }
+}
+Text decoded UTF-8: @ShopeeID Shopee 12.12 #1212ShopeeJackieChan #ShopeeBirthdaySale #1212CumadiShopee
+
+Shopee 12.12 #1212ShopeeJackieChan #ShopeeBirthdaySale #1212CumadiShopee
+
+Shopee 12.12 #1212ShopeeJackieChan #ShopeeBirthdaySale #1212CumadiShopee
+
+🙏3.184
+{
+    "data": {
+        "id": "1460737021056634885",
+        "text": "@rociodta Happy Thursday \ud83d\udc4d"
+    }
+}
+Text decoded UTF-8: @rociodta Happy Thursday 👍
+{
+    "data": {
+        "id": "1460737021069123584",
+        "text": "RT @MadridAltodo: Comunicado Asato contra continuaci\u00f3n del proced penal contra @decanofjlara @AVegaAmaya @MadridAltodo #todossomoslara http\u2026"
+    }
+}
+Text decoded UTF-8: RT @MadridAltodo: Comunicado Asato contra continuación del proced penal contra @decanofjlara @AVegaAmaya @MadridAltodo #todossomoslara http…
+{
+    "data": {
+        "id": "1460737021085954057",
+        "text": "RT @cavs: We all love a delicious pumpkin pie this time of year! \ud83d\ude0b\n\nTry out this guilt-free recipe from @ClevelandClinic for a low-fat vers\u2026"
+    }
+}
+Text decoded UTF-8: RT @cavs: We all love a delicious pumpkin pie this time of year! 😋
+
+Try out this guilt-free recipe from @ClevelandClinic for a low-fat vers…
+{
+    "data": {
+        "id": "1460737025255133188",
+        "text": "No puedo dormir por los mocos y encima estoy triste \u2639"
+    }
+}
+Text decoded UTF-8: No puedo dormir por los mocos y encima estoy triste ☹
+{
+    "data": {
+        "id": "1460737021081788420",
+        "text": "@mitags Eles evacuam na constitui\u00e7\u00e3o !"
+    }
+}
+Text decoded UTF-8: @mitags Eles evacuam na constituição !
+{
+    "data": {
+        "id": "1460737021085896710",
+        "text": "Bwahahahah bien fait https://t.co/3XOQ58zwD4"
+    }
+}
+Text decoded UTF-8: Bwahahahah bien fait https://t.co/3XOQ58zwD4
+{
+    "data": {
+        "id": "1460737021090140160",
+        "text": "@theGlitzyHippie Oh my \ud83d\ude32\ud83d\ude32\ud83d\ude32\ud83d\ude32\ud83d\ude32"
+    }
+}
+Text decoded UTF-8: @theGlitzyHippie Oh my 😲😲😲😲😲
+{
+    "data": {
+        "id": "1460737021052342283",
+        "text": "@Alexisxdresser Of course. It's a good one too"
+    }
+}
+Text decoded UTF-8: @Alexisxdresser Of course. It's a good one too
+{
+    "data": {
+        "id": "1460737025263353859",
+        "text": "\u6614\u50cd\u3044\u3066\u305f\u5e97\u306e\u30de\u30de\u304c\u8a00\u3063\u3066\u305f\u3002\n\u30d6\u30b9\u306f\u751f\u307e\u308c\u3064\u304d\u3082\u3042\u308b\u304b\u3089\u3057\u3087\u3046\u304c\u306a\u3044\u3051\u3069\u3001\u30c7\u30d6\u306f\u81ea\u5206\u6b21\u7b2c\u3063\u3066\u3002"
+    }
+}
+Text decoded UTF-8: 昔働いてた店のママが言ってた。
+ブスは生まれつきもあるからしょうがないけど、デブは自分次第って。
+{
+    "data": {
+        "id": "1460737025275883522",
+        "text": "RT @MargBarAmerica: canary mission, an organization dedicated to doxxing/blacklisting muslim students and academics who criticize israeli o\u2026"
+    }
+}
+Text decoded UTF-8: RT @MargBarAmerica: canary mission, an organization dedicated to doxxing/blacklisting muslim students and academics who criticize israeli o…
+{
+    "data": {
+        "id": "1460737021052399628",
+        "text": "RT @itswbear: BIEN CONCHASUMARE GALLESE SIEMPRE CONF\u00cdE EN T\u00cd MIERDAAAAA"
+    }
+}
+Text decoded UTF-8: RT @itswbear: BIEN CONCHASUMARE GALLESE SIEMPRE CONFÍE EN TÍ MIERDAAAAA
+{
+    "data": {
+        "id": "1460737021060788225",
+        "text": "\u015fimdi \u015f\u00f6yleki https://t.co/7soes81tQs"
+    }
+}
+Text decoded UTF-8: şimdi şöyleki https://t.co/7soes81tQs
+{
+    "data": {
+        "id": "1460737021073309704",
+        "text": "RT @nelsaintme: POV: Vas a entrar al Mercado https://t.co/unQyOAuyEV"
+    }
+}
+Text decoded UTF-8: RT @nelsaintme: POV: Vas a entrar al Mercado https://t.co/unQyOAuyEV
+{
+    "data": {
+        "id": "1460737021073362946",
+        "text": "RT @duelpop: Incr\u00edvel como \u201cMONTERO\u201d \u00e9 o \u00e1lbum internacional mais ouvido no Brasil. Em segundo, \u201cPlanet Her\u201d \u2764\ufe0f o bom gosto dos brasileiros\u2026"
+    }
+}
+Text decoded UTF-8: RT @duelpop: Incrível como “MONTERO” é o álbum internacional mais ouvido no Brasil. Em segundo, “Planet Her” ❤️ o bom gosto dos brasileiros…
+{
+    "data": {
+        "id": "1460737025250930689",
+        "text": "@ImCrazyGGs yo"
+    }
+}
+Text decoded UTF-8: @ImCrazyGGs yo
+{
+    "data": {
+        "id": "1460737021081755648",
+        "text": "@Myreeth Si, pero uno tiene que estar claro cuando la cosa no hace bien... Nadie quiere una relaci\u00f3n t\u00f3xica, aunque muchos se hacen los ciegos con ellas \ud83d\ude14"
+    }
+}
+Text decoded UTF-8: @Myreeth Si, pero uno tiene que estar claro cuando la cosa no hace bien... Nadie quiere una relación tóxica, aunque muchos se hacen los ciegos con ellas 😔
+{
+    "data": {
+        "id": "1460737021069176838",
+        "text": "@AkamiHebiko fuck"
+    }
+}
+Text decoded UTF-8: @AkamiHebiko fuck
+{
+    "data": {
+        "id": "1460737021052399618",
+        "text": "RT @NuhaKhaledCT: Distracted? https://t.co/qdApaSUZMb #womeninstem #womenwhocode #girlswhocode #OpenSource #coding #programming #100DaysOfC\u2026"
+    }
+}
+Text decoded UTF-8: RT @NuhaKhaledCT: Distracted? https://t.co/qdApaSUZMb #womeninstem #womenwhocode #girlswhocode #OpenSource #coding #programming #100DaysOfC…
+{
+    "data": {
+        "id": "1460737021077594116",
+        "text": "RT @Dokyzeras: todo mundo: EU AMO NARUTO DEMAAAAAAAIS\nEpic Games: a\u00e9? quanto? \ud83e\udd11"
+    }
+}
+Text decoded UTF-8: RT @Dokyzeras: todo mundo: EU AMO NARUTO DEMAAAAAAAIS
+Epic Games: aé? quanto? 🤑
+{
+    "data": {
+        "id": "1460737025280135170",
+        "text": "RT @JCTheResistance: 4 million children out of poverty. \n\n4 million children not going to bed hungry. \n\nYet every member of the @GOP voted\u2026"
+    }
+}
+Text decoded UTF-8: RT @JCTheResistance: 4 million children out of poverty. 
+
+4 million children not going to bed hungry. 
+
+Yet every member of the @GOP voted…
+{
+    "data": {
+        "id": "1460737025246523392",
+        "text": "RT @cxxxnyy: Buen d\u00eda bbys\ud83d\udc8bestoy activa con los packs al +56962126341 contesto solo interesados y de Chile\nAcabo de subir este video a mi o\u2026"
+    }
+}
+Text decoded UTF-8: RT @cxxxnyy: Buen día bbys💋estoy activa con los packs al +56962126341 contesto solo interesados y de Chile
+Acabo de subir este video a mi o…
+{
+    "data": {
+        "id": "1460737021081800706",
+        "text": "@kthlovhy eita \u00e9 meu moot"
+    }
+}
+Text decoded UTF-8: @kthlovhy eita é meu moot
+{
+    "data": {
+        "id": "1460737021085818881",
+        "text": "RT @Wintzer: \u307e\u3042\u3068\u306b\u304b\u304f\u30a2\u30a4\u30b9\u30c0\u30f3\u30b9\u306f\u300c\u6ed1\u308a\u300d\u306e\u6280\u8853\u3092\u3064\u3081\u3053\u307f\u307e\u304f\u3063\u305f\u30c6\u30af\u30cb\u30c3\u30af\u306e\u6700\u9ad8\u5cf0\u306e\u7a2e\u76ee\u306a\u306e\u3067\u3001\u305d\u3046\u3044\u3046\u3068\u3053\u308d\u3082\u5e83\u307e\u308b\u3068\u3044\u3044\u306a\u3042\u301c\u3068\u601d\u3063\u305f\u308a\u3057\u3068\u308a\u307e\u3059\u3002"
+    }
+}
+Text decoded UTF-8: RT @Wintzer: まあとにかくアイスダンスは「滑り」の技術をつめこみまくったテクニックの最高峰の種目なので、そういうところも広まるといいなあ〜と思ったりしとります。
+{
+    "data": {
+        "id": "1460737025267675144",
+        "text": "RT @touketumomomo: \u590f\u306e\u6d77\u3067\u30ca\u30f3\u30d1\u5373\u30bb\u30c3\u25cb\u30b9\u306e\u304a\u59c9\u3055\u3093\u2461 https://t.co/wepPtNTkGj"
+    }
+}
+Text decoded UTF-8: RT @touketumomomo: 夏の海でナンパ即セッ○スのお姉さん② https://t.co/wepPtNTkGj
+{
+    "data": {
+        "id": "1460737021060820993",
+        "text": "@Juancho30712399 Me puedes regalar m\u00e1s info a d\u00f3nde env\u00edo la hoja de vida"
+    }
+}
+Text decoded UTF-8: @Juancho30712399 Me puedes regalar más info a dónde envío la hoja de vida
+{
+    "data": {
+        "id": "1460737021085896706",
+        "text": "@Saalbahri @8at___q \u064a\u0627\u0631\u0628 \u0645\u0628\u0631\u0648\u0643 \u062a\u0634\u0631\u062d \u0627\u0644\u0635\u062f\u0631 \u064a\u0627\u0627\u0627\u0627\u0631\u0628 \u0648\u0627\u0646\u062a \u062a\u0639\u0644\u0645 \u0645 \u062a\u062e\u0641\u064a \u0627\u0644\u0635\u062f\u0648\u0631 \ud83d\ude4f\ud83c\udffb\ud83d\ude4f\ud83c\udffb"
+    }
+}
+Text decoded UTF-8: @Saalbahri @8at___q يارب مبروك تشرح الصدر ياااارب وانت تعلم م تخفي الصدور 🙏🏻🙏🏻
+{
+    "data": {
+        "id": "1460737025263296520",
+        "text": "@KPf_M \u304d\u308c\u3044\u306b\u898b\u3048\u308b\u3068\u3059\u308c\u3070\u3001\u305d\u308c\u306f\u639b\u3051\u5024\u306a\u3057\u3067\u6700\u8fd1\u306e\u30b9\u30de\u30db\u306e\u30ab\u30e1\u30e9\u306e\u6027\u80fd\u306e\u304a\u304b\u3052\u3067\u3059\u3002"
+    }
+}
+Text decoded UTF-8: @KPf_M きれいに見えるとすれば、それは掛け値なしで最近のスマホのカメラの性能のおかげです。
+{
+    "data": {
+        "id": "1460737025250787332",
+        "text": "RT @Charlie_Promo: Pero que nalgas tan hermosas de la sexy @Sol05801415 \ud83d\ude0d\ud83c\udf51 si quieres ver m\u00e1s de su precioso culo suscribete a su OnlyFans\u2026"
+    }
+}
+Text decoded UTF-8: RT @Charlie_Promo: Pero que nalgas tan hermosas de la sexy @Sol05801415 😍🍑 si quieres ver más de su precioso culo suscribete a su OnlyFans…
+{
+    "data": {
+        "id": "1460737021090181123",
+        "text": "RT @EnGuzelMavi1881: D\u00fcnyan\u0131n EN B\u00dcY\u00dcK Devrimcisi ATAT\u00dcRK 't\u00fcr ."
+    }
+}
+Text decoded UTF-8: RT @EnGuzelMavi1881: Dünyanın EN BÜYÜK Devrimcisi ATATÜRK 'tür .
+{
+    "data": {
+        "id": "1460737021077508103",
+        "text": "pq uma oportunidade dessas n\u00e3o acontece cmg hem"
+    }
+}
+Text decoded UTF-8: pq uma oportunidade dessas não acontece cmg hem
+{
+    "data": {
+        "id": "1460737021073309711",
+        "text": "[\u5b9a\u671f]\u30af\u30e9\u30f3\u54e1\u52df\u96c6\u4e2d\u3067\u3059\u3002PS\u306f\u7279\u306b\u6c17\u306b\u3057\u3066\u3044\u307e\u305b\u3093\u3002\u3069\u306a\u305f\u3067\u3082\u3069\u3046\u305e\n\u8a73\u7d30\u306a\u3069\u306f\u30ea\u30d7\u53c8\u306fDM\u306b\u3066\u304a\u7b54\u3048\u3057\u307e\u3059\u3002\n\u6687\u304c\u3042\u308b\u4eba\u306f\u662f\u975e\u662f\u975e\u304a\u9858\u3044\u3057\u307e\u3059\n#agar"
+    }
+}
+Text decoded UTF-8: [定期]クラン員募集中です。PSは特に気にしていません。どなたでもどうぞ
+詳細などはリプ又はDMにてお答えします。
+暇がある人は是非是非お願いします
+#agar
+{
+    "data": {
+        "id": "1460737025254903809",
+        "text": "RT @lieggiji: The jury in the #Rittenhouse trial has asked for 11 additional copies only of pages 1-6 of the jury instructions. \n\nThese pag\u2026"
+    }
+}
+Text decoded UTF-8: RT @lieggiji: The jury in the #Rittenhouse trial has asked for 11 additional copies only of pages 1-6 of the jury instructions. 
+
+These pag…
+{
+    "data": {
+        "id": "1460737021069205506",
+        "text": "RT @Natalie68964439: https://t.co/OPJtFQJuTc Dost ise #bayrakli e s c o r t d\u00fc\u015f\u00fcnme ver \u00f6mr\u00fcn\u00fc gitsin. 9202"
+    }
+}
+Text decoded UTF-8: RT @Natalie68964439: https://t.co/OPJtFQJuTc Dost ise #bayrakli e s c o r t düşünme ver ömrünü gitsin. 9202
+{
+    "data": {
+        "id": "1460737025246564357",
+        "text": "RT @nina_xq: \u306a\u3093\u3068\uff01\uff01\uff01\uff01\uff01\u30cf\u30b3\u30b9\u30bf\u30b8\u30a2\u30e0\u6771\u4eac\u3055\u3093\u306b\u3001\u79c1N!NA\u3068\u306e\u30b3\u30e9\u30dcBOX(\u64ae\u5f71\u30d6\u30fc\u30b9)\u304c\u8a2d\u7f6e\u3055\u308c\u307e\u3059\uff01\u2764\u2764\u2764\u304b\u308f\u3044\u304f\u304b\u3063\u3053\u3088\u304f\u8272\u3093\u306a\u64ae\u308a\u65b9\u304c\u3067\u304d\u308b\u30d6\u30fc\u30b9\u306b\u306a\u308b\u4e88\u5b9a\u3067\u3059\uff01\u7d9a\u5831\u304a\u5f85\u3061\u304f\u3060\u3055\u3044\uff5e\uff01\uff01\uff01"
+    }
+}
+Text decoded UTF-8: RT @nina_xq: なんと！！！！！ハコスタジアム東京さんに、私N!NAとのコラボBOX(撮影ブース)が設置されます！❤❤❤かわいくかっこよく色んな撮り方ができるブースになる予定です！続報お待ちください～！！！
+{
+    "data": {
+        "id": "1460737025267675139",
+        "text": "@itschar1ie Mickey Mouse nation"
+    }
+}
+Text decoded UTF-8: @itschar1ie Mickey Mouse nation
+{
+    "data": {
+        "id": "1460737025276059656",
+        "text": "@Shine_zth Pszz Yk i'll not die GOD WON'T LET ME :/ https://t.co/Hsv3Y8OANr"
+    }
+}
+Text decoded UTF-8: @Shine_zth Pszz Yk i'll not die GOD WON'T LET ME :/ https://t.co/Hsv3Y8OANr
+{
+    "data": {
+        "id": "1460737025263419402",
+        "text": "Thinking about switching therapists because she kept interrupting me interrupting her"
+    }
+}
+Text decoded UTF-8: Thinking about switching therapists because she kept interrupting me interrupting her
+{
+    "data": {
+        "id": "1460737025250930693",
+        "text": "No quiero estar as\u00ed otra vez."
+    }
+}
+Text decoded UTF-8: No quiero estar así otra vez.
+{
+    "data": {
+        "id": "1460737025267621890",
+        "text": "@blueeepac C est temporaire tkt \ud83d\udc41"
+    }
+}
+Text decoded UTF-8: @blueeepac C est temporaire tkt 👁
+{
+    "data": {
+        "id": "1460737029449211908",
+        "text": "TomTom Carry Case https://t.co/qPxR0gZtTA"
+    }
+}
+Text decoded UTF-8: TomTom Carry Case https://t.co/qPxR0gZtTA
+{
+    "data": {
+        "id": "1460737025250926604",
+        "text": "RT @btsfashionhr: namjoon in yellow &gt;&gt;&gt; https://t.co/ykTqWsLI7r"
+    }
+}
+Text decoded UTF-8: RT @btsfashionhr: namjoon in yellow &gt;&gt;&gt; https://t.co/ykTqWsLI7r
+{
+    "data": {
+        "id": "1460737025284399106",
+        "text": "RT @mutualan_base1: pong! akun ambis ayo mutualan"
+    }
+}
+Text decoded UTF-8: RT @mutualan_base1: pong! akun ambis ayo mutualan
+{
+    "data": {
+        "id": "1460737025275949062",
+        "text": "RT @jihoolics: Treasure 00s wearing eye patch\n@treasuremembers https://t.co/ODO0rNsadZ"
+    }
+}
+Text decoded UTF-8: RT @jihoolics: Treasure 00s wearing eye patch
+@treasuremembers https://t.co/ODO0rNsadZ
+{
+    "data": {
+        "id": "1460737029466034176",
+        "text": "RT @earthmixarchive: \ud83c\udf1a\ud83c\udf1a\ud83c\udf1a\ud83c\udf1a\n#SeaMeNOWxEarthMix https://t.co/QQApKXVHMT"
+    }
+}
+Text decoded UTF-8: RT @earthmixarchive: 🌚🌚🌚🌚
+#SeaMeNOWxEarthMix https://t.co/QQApKXVHMT
+{
+    "data": {
+        "id": "1460737025276100615",
+        "text": "@sgt458 @HoltsCigar @CigarChairman @Anthony_Mazzola @spwetzel Mail call?! Sarge... Please tell me you didn't buy these for yourself this close to Christmas!"
+    }
+}
+Text decoded UTF-8: @sgt458 @HoltsCigar @CigarChairman @Anthony_Mazzola @spwetzel Mail call?! Sarge... Please tell me you didn't buy these for yourself this close to Christmas!
+{
+    "data": {
+        "id": "1460737025271910405",
+        "text": "@luth4ndo lmaooo"
+    }
+}
+Text decoded UTF-8: @luth4ndo lmaooo
+{
+    "data": {
+        "id": "1460737029478621184",
+        "text": "@onemu_Dai5 D\u306e\u529b\u3060\u3088\u1559( \u02d9\ua4b3\u200b\u02d9  )\u1557"
+    }
+}
+Text decoded UTF-8: @onemu_Dai5 Dの力だよᕙ( ˙꒳​˙  )ᕗ
+{
+    "data": {
+        "id": "1460737025271865348",
+        "text": "@Saalbahri @8at___q \u0627\u0644\u0644\u0647 \u064a\u0633\u0639\u062f\u0643 \u0648\u064a\u0643\u062b\u0631 \u062e\u064a\u0631\u0631\u0631\u0643 \u0648\u0639\u0642\u0628\u0627\u0644\u064a \u064a\u0627\u0631\u0631\u0628"
+    }
+}
+Text decoded UTF-8: @Saalbahri @8at___q الله يسعدك ويكثر خيرررك وعقبالي ياررب
+{
+    "data": {
+        "id": "1460737025280258052",
+        "text": "New sight on the bow and love it straight tack driver now"
+    }
+}
+Text decoded UTF-8: New sight on the bow and love it straight tack driver now
+{
+    "data": {
+        "id": "1460737025255120904",
+        "text": "RT @elmundoes: Detalles de las fumarolas y la columna eruptiva freatomagm\u00e1tica del volc\u00e1n de La Palma https://t.co/YNMZqmE6xM"
+    }
+}
+Text decoded UTF-8: RT @elmundoes: Detalles de las fumarolas y la columna eruptiva freatomagmática del volcán de La Palma https://t.co/YNMZqmE6xM
+{
+    "data": {
+        "id": "1460737029478641665",
+        "text": "RT @realchrisrufo: BREAKING: House Republicans have obtained whistleblower documents showing that the FBI is using its counterterrorism div\u2026"
+    }
+}
+Text decoded UTF-8: RT @realchrisrufo: BREAKING: House Republicans have obtained whistleblower documents showing that the FBI is using its counterterrorism div…
+{
+    "data": {
+        "id": "1460737025263472648",
+        "text": "RT @CaponeCdg: Feeling bullish about $ksm \n\n#kusama #crypto #buy https://t.co/YRPvTyU4o3"
+    }
+}
+Text decoded UTF-8: RT @CaponeCdg: Feeling bullish about $ksm 
+
+#kusama #crypto #buy https://t.co/YRPvTyU4o3
+{
+    "data": {
+        "id": "1460737029445148677",
+        "text": "@porn__________girl___caught   \n  -  \n  - \n  - @p0rn_x_sex_link  \n  -  \n  - \n  - @p0rn_x_sex_link  \n  -  \n  - \n  - @p0rn_x_sex_link 57124413"
+    }
+}
+Text decoded UTF-8: @porn__________girl___caught   
+  -  
+  - 
+  - @p0rn_x_sex_link  
+  -  
+  - 
+  - @p0rn_x_sex_link  
+  -  
+  - 
+  - @p0rn_x_sex_link 57124413
+{
+    "data": {
+        "id": "1460737025284452352",
+        "text": "RT @YedaiJamao: Esta ma\u00f1ana, mi admirado Jon Ritman me ha confirmado que, efectivamente, la noticia sobre el fallecimiento de su grafista B\u2026"
+    }
+}
+Text decoded UTF-8: RT @YedaiJamao: Esta mañana, mi admirado Jon Ritman me ha confirmado que, efectivamente, la noticia sobre el fallecimiento de su grafista B…
+{
+    "data": {
+        "id": "1460737029445197827",
+        "text": "@porn__________amateur___mother___son   \n  -  \n  - \n  - @p0rn_x_sex_link  \n  -  \n  - \n  - @p0rn_x_sex_link  \n  -  \n  - \n  - @p0rn_x_sex_link 1143765095"
+    }
+}
+Text decoded UTF-8: @porn__________amateur___mother___son   
+  -  
+  - 
+  - @p0rn_x_sex_link  
+  -  
+  - 
+  - @p0rn_x_sex_link  
+  -  
+  - 
+  - @p0rn_x_sex_link 1143765095
+{
+    "data": {
+        "id": "1460737029466058753",
+        "text": "RT @apapapap1315: \u0e1b\u0e23\u0e01\u0e15\u0e34\u0e2b\u0e19\u0e39\u0e08\u0e30\u0e40\u0e2a\u0e23\u0e47\u0e08\u0e44\u0e21\u0e48\u0e15\u0e48\u0e33\u0e01\u0e27\u0e48\u0e32 3-5 \u0e04\u0e23\u0e31\u0e49\u0e07  \u0e08\u0e19\u0e41\u0e1f\u0e19\u0e40\u0e2a\u0e23\u0e47\u0e08 \u0e1a\u0e32\u0e07\u0e17\u0e35\u0e01\u0e47\u0e2d\u0e22\u0e32\u0e01\u0e40\u0e2d\u0e32\u0e15\u0e48\u0e2d  \u0e07\u0e37\u0e2d\u0e2d\u0e2d https://t.co/T4MEbONIvW"
+    }
+}
+Text decoded UTF-8: RT @apapapap1315: ปรกติหนูจะเสร็จไม่ต่ำกว่า 3-5 ครั้ง  จนแฟนเสร็จ บางทีก็อยากเอาต่อ  งือออ https://t.co/T4MEbONIvW
+{
+    "data": {
+        "id": "1460737029470183424",
+        "text": "RT @projetolsbr: \"..e quando t\u00e1 pra se afogar no mar da vida..\u201d \ud83d\ude02 #ilha\". | @luansantana via instagram. https://t.co/PzTfLwXJtG"
+    }
+}
+Text decoded UTF-8: RT @projetolsbr: "..e quando tá pra se afogar no mar da vida..” 😂 #ilha". | @luansantana via instagram. https://t.co/PzTfLwXJtG
+{
+    "data": {
+        "id": "1460737029462007812",
+        "text": "\u0648\u0628\u062f\u0623\u0646\u0627! \u0628\u0627\u0644\u0646\u0633\u0628\u0629 \u0644\u0627\u064a \u062d\u062f \u0645\u0634 \u0645\u062a\u0623\u0643\u062f \u0645\u0646 \u0645\u0639\u0646\u0649 \u062a\u063a\u0631\u064a\u062f\u062a\u064a \u0627\u0644\u0623\u062e\u064a\u0631\u0629 \u060c \u0647\u0630\u0627 \u0623\u062d\u062f \u0627\u0644\u0645\u0631\u0634\u062d\u064a\u0646 \u0627\u0644\u0644\u064a \u0642\u0635\u062f\u062a\u0647\u0645 \u0644\u0645\u0627 \u0627\u0634\u0631\u062a \u0625\u0644\u0649 \u0627\u0644\u0645\u062a\u0648\u0631\u0637\u064a\u0646 \u0641\u064a \u062c\u0631\u0627\u0626\u0645 \u0636\u062f \u0627\u0644\u0625\u0646\u0633\u0627\u0646\u064a\u0629 \u0648\u062c\u0631\u0627\u0626\u0645 \u062d\u0631\u0628. \u0627\u0644\u0645\u0639\u0627\u064a\u064a\u0631 \u0645\u0647\u0645\u0629. \u0628\u0623\u064a \u0648\u062c\u0647 \u0645\u0645\u0643\u0646 \u0646\u0641\u0633\u0631\u0648 \u0647\u0630\u0627 \u0644\u0644\u0636\u062d\u0627\u064a\u0627\u061f # \u0644\u064a\u0628\u064a\u0627 https://t.co/BUKvBXqURB"
+    }
+}
+Text decoded UTF-8: وبدأنا! بالنسبة لاي حد مش متأكد من معنى تغريدتي الأخيرة ، هذا أحد المرشحين اللي قصدتهم لما اشرت إلى المتورطين في جرائم ضد الإنسانية وجرائم حرب. المعايير مهمة. بأي وجه ممكن نفسرو هذا للضحايا؟ # ليبيا https://t.co/BUKvBXqURB
+{
+    "data": {
+        "id": "1460737029470367756",
+        "text": "@Gonzalezgomezd5 @bcn_ajuntament @aavvbarceloneta Si ho he ent\u00e8s be, els ve\u00efns de pujada podem utilitzar el carril Bus."
+    }
+}
+Text decoded UTF-8: @Gonzalezgomezd5 @bcn_ajuntament @aavvbarceloneta Si ho he entès be, els veïns de pujada podem utilitzar el carril Bus.
+{
+    "data": {
+        "id": "1460737025284390912",
+        "text": "Servicio social. \ud83d\ude0c https://t.co/BhU3KXXRKK"
+    }
+}
+Text decoded UTF-8: Servicio social. 😌 https://t.co/BhU3KXXRKK
+{
+    "data": {
+        "id": "1460737029453402114",
+        "text": "@turikichi0522 \u3053\u308c\u30012000\u5186\u304f\u3089\u3044\u5229\u76ca\u51fa\u3057\u3066\u307e\u3057\u305f\u3088w"
+    }
+}
+Text decoded UTF-8: @turikichi0522 これ、2000円くらい利益出してましたよw
+{
+    "data": {
+        "id": "1460737029466058755",
+        "text": "RT @SF_SatoshiFujii: \u65e5\u672c\u306e\u30b3\u30ed\u30ca\u5bfe\u7b56\u306e\u6700\u60aa\u3076\u308a\u306f\u76f8\u5f53\u30e4\u30d0\u30a4\u2026\n\n\u30b3\u30ed\u30ca\u524d\u304b\u3089\u4eca\u5e74\u306b\u304b\u3051\u3066\u306e\u4e88\u60f3\u6210\u9577\u7387\u306f\u5927\u80c6\u306a\u7d4c\u6e08\u5bfe\u7b56\u3092\u884c\u3063\u305f\u72ec2\uff05\u7c73\u56fd7\uff05\u3001\u305d\u3057\u3066\u904e\u5270\u81ea\u7c9b\u56de\u907f\u306e\u4e2d\u56fd\u306f14\uff05!\n\n\u3057\u304b\u3057\u30c0\u30e9\u30c0\u30e9\u81ea\u7c9b\u3055\u305b\u308b\u304c\u30b1\u30c1\u306a\u7d4c\u6e08\u5bfe\u7b56\u3057\u304b\u3057\u306a\u304b\u3063\u305f\u65e5\u672c\u306f\u552f\u4e00\u306e\u30de\u30a4\u30ca\u30b9\u2026\u2026"
+    }
+}
+Text decoded UTF-8: RT @SF_SatoshiFujii: 日本のコロナ対策の最悪ぶりは相当ヤバイ…
+
+コロナ前から今年にかけての予想成長率は大胆な経済対策を行った独2％米国7％、そして過剰自粛回避の中国は14％!
+
+しかしダラダラ自粛させるがケチな経済対策しかしなかった日本は唯一のマイナス……
+{
+    "data": {
+        "id": "1460737029474451458",
+        "text": "\u4eca\u5ea6\u30a8\u30ad\u30b9\u30dd\u884c\u304f^_^\u30ab\u30d0\u3063\u3066\u53ef\u611b\u304f\u306a\u3044\u3051\u3069\u8d64\u3061\u3083\u3093\u306f\u53ef\u611b\u3044\u307f\u305f\u3044^_^ https://t.co/Ul3zmfWlEm"
+    }
+}
+Text decoded UTF-8: 今度エキスポ行く^_^カバって可愛くないけど赤ちゃんは可愛いみたい^_^ https://t.co/Ul3zmfWlEm
+{
+    "data": {
+        "id": "1460737029466173446",
+        "text": "@Ba_nk1 \u0644\u0644\u062a\u0639\u062f\u064a\u0644 \u0645\u0646 \u0641\u062a\u0631\u0629 \u0637\u0648\u064a\u0644\u0647"
+    }
+}
+Text decoded UTF-8: @Ba_nk1 للتعديل من فترة طويله
+{
+    "data": {
+        "id": "1460737025280294918",
+        "text": "queria passear com minha pastora alem\u00e3 mas nao posso por ter medo de outros cachorros atacarem ela"
+    }
+}
+Text decoded UTF-8: queria passear com minha pastora alemã mas nao posso por ter medo de outros cachorros atacarem ela
+{
+    "data": {
+        "id": "1460737025259282434",
+        "text": "[16/11 19:25] M\u00e3e\u2764\ufe0f: Oi gu\n[16/11 19:26] M\u00e3e\u2764\ufe0f: Oque t\u00e1 fazendo\n[16/11 19:26] Gunther Barros\ud83c\udde9\ud83c\uddea: Oi\n[16/11 19:26] Gunther Barros\ud83c\udde9\ud83c\uddea: t\u00e1 dando aula?\n[16/11 19:27] Gunther Barros\ud83c\udde9\ud83c\uddea: deu aula do q hoje\n[16/11 19:27] M\u00e3e\u2764\ufe0f: Vc jantou\n\nse preocupa mto com comida ,q d\u00f3"
+    }
+}
+Text decoded UTF-8: [16/11 19:25] Mãe❤️: Oi gu
+[16/11 19:26] Mãe❤️: Oque tá fazendo
+[16/11 19:26] Gunther Barros🇩🇪: Oi
+[16/11 19:26] Gunther Barros🇩🇪: tá dando aula?
+[16/11 19:27] Gunther Barros🇩🇪: deu aula do q hoje
+[16/11 19:27] Mãe❤️: Vc jantou
+
+se preocupa mto com comida ,q dó
+{
+    "data": {
+        "id": "1460737029440872451",
+        "text": "\u3069\u3063\u3061\u306b\u3057\u308d\u884c\u3051\u3066\u3066\u3082\u62bd\u9078\u8ca9\u58f2\u3060\u304b\u3089\u96e3\u3057\u3044\u306e\u304b\ud83e\udd14"
+    }
+}
+Text decoded UTF-8: どっちにしろ行けてても抽選販売だから難しいのか🤔
+{
+    "data": {
+        "id": "1460737025267671043",
+        "text": "RT @Saenzn_e: Ahora resulta que la #OEA tiene a\u00f1os de ser injerencista.\n\u00bfY cuando copatrocinaron con #USA en 2018, la resoluci\u00f3n que abri\u00f3\u2026"
+    }
+}
+Text decoded UTF-8: RT @Saenzn_e: Ahora resulta que la #OEA tiene años de ser injerencista.
+¿Y cuando copatrocinaron con #USA en 2018, la resolución que abrió…
+{
+    "data": {
+        "id": "1460737025271812099",
+        "text": "RT @myglif: ????? https://t.co/DkAHm48mYs"
+    }
+}
+Text decoded UTF-8: RT @myglif: ????? https://t.co/DkAHm48mYs
+{
+    "data": {
+        "id": "1460737025250930691",
+        "text": "RT @hepsonbahar9: Erke\u011fim \ud83d\udc43\ud83c\udffe\ud83d\udc45 https://t.co/mxmiyskr5D"
+    }
+}
+Text decoded UTF-8: RT @hepsonbahar9: Erkeğim 👃🏾👅 https://t.co/mxmiyskr5D
+{
+    "data": {
+        "id": "1460737029466120193",
+        "text": "RT @synthishere: Ben Shapiro just straight denying medical consensus lmao https://t.co/LR2UQiTOU7"
+    }
+}
+Text decoded UTF-8: RT @synthishere: Ben Shapiro just straight denying medical consensus lmao https://t.co/LR2UQiTOU7
+{
+    "data": {
+        "id": "1460737025271742465",
+        "text": "Fangio Answers Whether #Broncos Special Teams Coordinator Tom McMahon Will be Fired | via @KelbermanNFL \n\nhttps://t.co/LE32r2EL0c https://t.co/ItIgsamsQr"
+    }
+}
+Text decoded UTF-8: Fangio Answers Whether #Broncos Special Teams Coordinator Tom McMahon Will be Fired | via @KelbermanNFL 
+
+https://t.co/LE32r2EL0c https://t.co/ItIgsamsQr
+{
+    "data": {
+        "id": "1460737025259315206",
+        "text": "@jana_pruden because winning matters"
+    }
+}
+Text decoded UTF-8: @jana_pruden because winning matters
+{
+    "data": {
+        "id": "1460737025271685123",
+        "text": "RT @Long77273073: Ng\u00f4 Quy\u1ec1n c\u1ea7n th\u01a1 t\u00ecm bot d\u1ec5 th\u01b0\u01a1ng some,k t\u00edp \u1ebbo l\u1ea3 v\u00e0 trung ni\u00ean ngo\u00e0i 30 nh\u00e9,\u0111\u00e3 c\u00f3 2 top 28t kuto ,body \u1ed5n,g\u01b0\u01a1ng m\u1eb7t d\u2026"
+    }
+}
+Text decoded UTF-8: RT @Long77273073: Ngô Quyền cần thơ tìm bot dễ thương some,k típ ẻo lả và trung niên ngoài 30 nhé,đã có 2 top 28t kuto ,body ổn,gương mặt d…
+{
+    "data": {
+        "id": "1460737029470314496",
+        "text": "@EddieHawk5 That makes perfect sense babe"
+    }
+}
+Text decoded UTF-8: @EddieHawk5 That makes perfect sense babe
+{
+    "data": {
+        "id": "1460737029470363651",
+        "text": "@AfterRMC @DanielRiolo c vrai que le titu d'un des grands et exigeants club au monde, c'est de la merde #pavard"
+    }
+}
+Text decoded UTF-8: @AfterRMC @DanielRiolo c vrai que le titu d'un des grands et exigeants club au monde, c'est de la merde #pavard
+{
+    "data": {
+        "id": "1460737029441036298",
+        "text": "Todos viendo el partido https://t.co/b3wTf7HoCz"
+    }
+}
+Text decoded UTF-8: Todos viendo el partido https://t.co/b3wTf7HoCz
+{
+    "data": {
+        "id": "1460737029449273347",
+        "text": "\u80c3\u5468\u8fba\u75db\u3044\u308f\u3088"
+    }
+}
+Text decoded UTF-8: 胃周辺痛いわよ
+{
+    "data": {
+        "id": "1460737029474557959",
+        "text": "RT @alxxxcz: todos hemos vivido algo q nunca contamos"
+    }
+}
+Text decoded UTF-8: RT @alxxxcz: todos hemos vivido algo q nunca contamos
+{
+    "data": {
+        "id": "1460737029445201923",
+        "text": "RT @Cdiscount: \ud83c\udf81 #Concours Cdiscount Shopping Show \ud83d\udd34\n\nC'est parti pour le live Acer Chromebook avec @LoryLyn79 ! D\u00e9couvre d\u00e8s maintenant le\u2026"
+    }
+}
+Text decoded UTF-8: RT @Cdiscount: 🎁 #Concours Cdiscount Shopping Show 🔴
+
+C'est parti pour le live Acer Chromebook avec @LoryLyn79 ! Découvre dès maintenant le…
+{
+    "data": {
+        "id": "1460737029449338883",
+        "text": "RT @KimbetheStylist: \ud83d\udc60\ud83d\udc60\ud83c\udd75\ud83c\udd7e\ufe0e\ud83c\udd7b\ud83c\udd7b\ud83c\udd7e\ufe0e\ud83c\udd86/\ud83c\udd81\ud83c\udd83\ud83d\udc60\ud83d\udc60\n@LuzMyBike \n@samz_88_ \n@goldisez \n@TAZZMANGQ \n@Jen_7_17 \n@dauschmo \n@Bob93023415\n@jrgkfg425 \n@MichaelM\u2026"
+    }
+}
+Text decoded UTF-8: RT @KimbetheStylist: 👠👠🅵🅾︎🅻🅻🅾︎🆆/🆁🆃👠👠
+@LuzMyBike 
+@samz_88_ 
+@goldisez 
+@TAZZMANGQ 
+@Jen_7_17 
+@dauschmo 
+@Bob93023415
+@jrgkfg425 
+@MichaelM…
+{
+    "data": {
+        "id": "1460737029457780736",
+        "text": "RT @ManadaPolitica: #PreguntasChingaChairos\n\n\u00bfQue le hizo Andr\u00e9s al dinero que se ahorr\u00f3 por no comprar medicamentos?"
+    }
+}
+Text decoded UTF-8: RT @ManadaPolitica: #PreguntasChingaChairos
+
+¿Que le hizo Andrés al dinero que se ahorró por no comprar medicamentos?
+{
+    "data": {
+        "id": "1460737029453582343",
+        "text": "RT @joncoopertweets: President Biden reportedly told Chuck Schumer and Nancy Pelosi that he would pressure moderate Senate Democrats to cha\u2026"
+    }
+}
+Text decoded UTF-8: RT @joncoopertweets: President Biden reportedly told Chuck Schumer and Nancy Pelosi that he would pressure moderate Senate Democrats to cha…
+{
+    "data": {
+        "id": "1460737033656102913",
+        "text": "RT @oh_yeah_o3o_322: \uadf8\ub9ac\uba74\uc11c \uc54c\uc557\ub124..\u314b..\n\uba5c\ube75\uc774\uc5c7\uad6c\ub098\u2026\uadf8\ub807\uad6c\ub098\u2026 \uadf8\ub7fc \uba5c\ube75\uc804\uc2e0\ub3c4 \ubcfc\uc218\uc787\uac9f\uad6c\ub098\u2026\uadf8\ub807\uad6c\ub098\u2026.. https://t.co/KH24g6E92j"
+    }
+}
+Text decoded UTF-8: RT @oh_yeah_o3o_322: 그리면서 알앗네..ㅋ..
+멜빵이엇구나…그렇구나… 그럼 멜빵전신도 볼수잇겟구나…그렇구나….. https://t.co/KH24g6E92j
+{
+    "data": {
+        "id": "1460737029453590537",
+        "text": "Coffee date\u2026 https://t.co/wzAP9ke821"
+    }
+}
+Text decoded UTF-8: Coffee date… https://t.co/wzAP9ke821
+{
+    "data": {
+        "id": "1460737029474381824",
+        "text": "RT @StockyDudesCom: Clause and Steven have hot raw sex | Watch Full Video https://t.co/2HinA8Ab7Y https://t.co/uWrE7F9ErB"
+    }
+}
+Text decoded UTF-8: RT @StockyDudesCom: Clause and Steven have hot raw sex | Watch Full Video https://t.co/2HinA8Ab7Y https://t.co/uWrE7F9ErB
+{
+    "data": {
+        "id": "1460737033660297218",
+        "text": "@JNJMEnt @jellycandy55"
+    }
+}
+Text decoded UTF-8: @JNJMEnt @jellycandy55
+{
+    "data": {
+        "id": "1460737029478789121",
+        "text": "RT @AngelinaBronze1: Que corpo \ud83e\udd75"
+    }
+}
+Text decoded UTF-8: RT @AngelinaBronze1: Que corpo 🥵
+{
+    "data": {
+        "id": "1460737029470314505",
+        "text": "@kristenlanae from such videos, the hand reaches into panties \ud83d\ude0f https://t.co/mzsHPvdRqz"
+    }
+}
+Text decoded UTF-8: @kristenlanae from such videos, the hand reaches into panties 😏 https://t.co/mzsHPvdRqz
+{
+    "data": {
+        "id": "1460737029445238793",
+        "text": "RT @lfpocfit: \u203c\ufe0fEnjoy the best amateur content, more then 280 photos and videos to you enjoy\ud83d\udca6\u203c\ufe0f\n\n\u203c\ufe0f25% OFF FOR THE NEXT 100 SUBSCRIBERS.\u203c\ufe0f\u2026"
+    }
+}
+Text decoded UTF-8: RT @lfpocfit: ‼️Enjoy the best amateur content, more then 280 photos and videos to you enjoy💦‼️
+
+‼️25% OFF FOR THE NEXT 100 SUBSCRIBERS.‼️…
+{
+    "data": {
+        "id": "1460737029449424904",
+        "text": "#vi #jinx #Arcane https://t.co/QePEzkd6h7"
+    }
+}
+Text decoded UTF-8: #vi #jinx #Arcane https://t.co/QePEzkd6h7
+{
+    "data": {
+        "id": "1460737033664487428",
+        "text": "RT @luvijet_105: \u30cf\u30df\u30eb\u30c8\u30f3 \u30b8\u30e3\u30c3\u30af\u30de\u30fc \u30b4\u30fc\u30f3  \u6589\u85e4\u7531\u8cb4 \u9707\u707d\u306e\u518d\u6765 \u9996\u90fd\u76f4\u4e0b\u3010 \u6771\u5317 \u95a2\u6771\u5730\u9707\u26a0\ufe0f \u3011\u540c\u671f31 69 78 111 237 268 324 \u3042\u3068\u660e\u65e5\u306f\u30b3\u30fc\u30c9168\u306e\u76f4\u89d2258\u3068\u96a3\u63a5257( \u6708\u904b )\u3067\u8d85\u5de8\u5927\u5730\u9707\u30a8\u30cd\u306e\u4e26\u3073\u3067\u3059\u306d\u3002\u3044\u3064\u3082\u30c4\u30a4\u2026"
+    }
+}
+Text decoded UTF-8: RT @luvijet_105: ハミルトン ジャックマー ゴーン  斉藤由貴 震災の再来 首都直下【 東北 関東地震⚠️ 】同期31 69 78 111 237 268 324 あと明日はコード168の直角258と隣接257( 月運 )で超巨大地震エネの並びですね。いつもツイ…
+{
+    "data": {
+        "id": "1460737029478703113",
+        "text": "@TheLordBlue01 Que s\u00ed Blue, que te leo todos los tuits/tweets y no escribes bien. Y no me refiero a lo abreviado..\n\nAhora te tiro una piedra por la guerra! \ud83e\udea8"
+    }
+}
+Text decoded UTF-8: @TheLordBlue01 Que sí Blue, que te leo todos los tuits/tweets y no escribes bien. Y no me refiero a lo abreviado..
+
+Ahora te tiro una piedra por la guerra! 🪨
+{
+    "data": {
+        "id": "1460737033635201026",
+        "text": "@daihuku_yukkuri \u3044\u3064\u3082\u9045\u523b\u3057\u3066\u308b\u4eba\u3060\u301c\n\u9811\u5f35\u308c\uff01"
+    }
+}
+Text decoded UTF-8: @daihuku_yukkuri いつも遅刻してる人だ〜
+頑張れ！
+{
+    "data": {
+        "id": "1460737033664671747",
+        "text": "@ir_mode_LTD \u06a9\u06cc \u0639\u06a9\u0633 \u06af\u0631\u0641\u062a\u0647\n\u0648\u0627\u0642\u0639\u0627 \u0630\u0647\u0646\u0645\u0648 \u062f\u0631\u06af\u06cc\u0631 \u06a9\u0631\u062f\u0647\n\u06cc\u0627 \u0645\u062b\u0644\u0627 \u06cc\u06a9\u06cc\u062a\u0648\u0646 \u062f\u0648\u0631\u0628\u06cc\u0646\u0648 \u062a\u0646\u0638\u06cc\u0645 \u06a9\u0631\u062f\u0647 \u0628\u0639\u062f \u0647\u06cc \u062f\u0648\u06cc\u062f\u06cc\u0646 \u0631\u0641\u062a\u06cc\u0646 \u0639\u06a9\u0633 \u06af\u0631\u0641\u062a\u06cc\u0646"
+    }
+}
+Text decoded UTF-8: @ir_mode_LTD کی عکس گرفته
+واقعا ذهنمو درگیر کرده
+یا مثلا یکیتون دوربینو تنظیم کرده بعد هی دویدین رفتین عکس گرفتین
+{
+    "data": {
+        "id": "1460737029466202117",
+        "text": "RT @rarerooms: \ud83c\udf892 days left - 50 Free #OnFlow Mystery Packs\ud83c\udf89\n\nPrepping for @rarerooms x @weareround21\n\nGet lucky, pull a key, gain early ac\u2026"
+    }
+}
+Text decoded UTF-8: RT @rarerooms: 🎉2 days left - 50 Free #OnFlow Mystery Packs🎉
+
+Prepping for @rarerooms x @weareround21
+
+Get lucky, pull a key, gain early ac…
+{
+    "data": {
+        "id": "1460737033672945668",
+        "text": "RT @feedback515: \u6709\u6599\u4f1a\u54e1\u8a18\u4e8b\u306a\u306e\u304c\u6b8b\u5ff5\u3060\u304c\u3001\u672c\u5f53\u306f\u3059\u3079\u3066\u306e\u65e5\u672c\u4eba\u304c\u77e5\u308b\u3079\u304d\u4e8b\u4ef6\u300219\u4e16\u7d00\u5f8c\u534a\u304b\u308920\u4e16\u7d00\u524d\u534a\u306b\u304b\u3051\u3066\u3001\u65e5\u672c\u306f\u307e\u3055\u306b\u30a2\u30b8\u30a2\u306e\u8105\u5a01\u305d\u306e\u3082\u306e\u3060\u3063\u305f\u3002\u6b74\u53f2\u304c\u8840\u5857\u3089\u308c\u3066\u3044\u308b\u306e\u3060\u3002\u3053\u308c\u306f\u6c7a\u3057\u3066\u81ea\u8650\u306a\u3069\u3067\u306f\u306a\u3044\u3002\u4e8b\u5b9f\u3092\u77e5\u308b\u3079\u304d\u3060\u3068\u3044\u3046\u306e\u3060\u3002\nhttps://\u2026"
+    }
+}
+Text decoded UTF-8: RT @feedback515: 有料会員記事なのが残念だが、本当はすべての日本人が知るべき事件。19世紀後半から20世紀前半にかけて、日本はまさにアジアの脅威そのものだった。歴史が血塗られているのだ。これは決して自虐などではない。事実を知るべきだというのだ。
+https://…
+{
+    "data": {
+        "id": "1460737033639399425",
+        "text": "\u3046\u304a\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042"
+    }
+}
+Text decoded UTF-8: うおあああああああああああああああ
+{
+    "data": {
+        "id": "1460737033635188736",
+        "text": "RT @Doramiki4: #MAMAVOTE #kangdaniel"
+    }
+}
+Text decoded UTF-8: RT @Doramiki4: #MAMAVOTE #kangdaniel
+{
+    "data": {
+        "id": "1460737033660289029",
+        "text": "RT @iklare: Libertad, paz, familia, derecho preferente a educar a los hijos, amor a la patria y un estado peque\u00f1o. Quedan solo 5 d\u00edas y jun\u2026"
+    }
+}
+Text decoded UTF-8: RT @iklare: Libertad, paz, familia, derecho preferente a educar a los hijos, amor a la patria y un estado pequeño. Quedan solo 5 días y jun…
+{
+    "data": {
+        "id": "1460737033647710208",
+        "text": "\u7a7a\u6c17\u304c\u4e7e\u71e5\u3057\u3066\u304d\u307e\u3057\u305f\u306d\u3002\u9045\u308c\u3070\u305b\u306a\u304c\u3089\u52a0\u6e7f\u5668\u3092\u51fa\u3057\u307e\u3057\u305f\u3002\u6cb9\u65ad\u3059\u308b\u3068\u3001\u5589\u3092\u75db\u3081\u3066\u58f0\u304c\u3067\u306a\u304f\u306a\u308b\u306e\u3067\u3001\u6c17\u3092\u3064\u3051\u306a\u3044\u3068\u3002\u65e5\u672c\u8a9e\u6559\u5e2b\u306f\u5589\u304c\u547d\uff01"
+    }
+}
+Text decoded UTF-8: 空気が乾燥してきましたね。遅ればせながら加湿器を出しました。油断すると、喉を痛めて声がでなくなるので、気をつけないと。日本語教師は喉が命！
+{
+    "data": {
+        "id": "1460737033643692035",
+        "text": "RT @carlalarrat: S\u00f3 me isolando msm pra n\u00e3o xingar todo mundo"
+    }
+}
+Text decoded UTF-8: RT @carlalarrat: Só me isolando msm pra não xingar todo mundo
+{
+    "data": {
+        "id": "1460737033635307525",
+        "text": "Soy m\u00e1s de usar zapatillas, asi que zapatillas.\nAunque las botas tampoco est\u00e1n mal\nI Vote for #Butter for #TheSong of 2021 #PCAs @BTS_twt https://t.co/fjrfNvP1IJ"
+    }
+}
+Text decoded UTF-8: Soy más de usar zapatillas, asi que zapatillas.
+Aunque las botas tampoco están mal
+I Vote for #Butter for #TheSong of 2021 #PCAs @BTS_twt https://t.co/fjrfNvP1IJ
+{
+    "data": {
+        "id": "1460737033651900416",
+        "text": "RT @6d745: \u73cd\u5b9d\u9928\u306e\u30c1\u30f3\u5b50\u3055\u3093\u3092\u697d\u3057\u304f\u7d39\u4ecb\u3057\u305f\u3060\u3051\u3067\u3001\u300c\u6027\u66b4\u529b\u3060\u3001\u6e29\u6cc9\u8857\u306f\u8d64\u7dda\u30a8\u30ea\u30a2\u3068\u30ea\u30f3\u30af\u3059\u308b\u304b\u3089\u4e00\u5c64\u306e\u6d44\u5316\u304c\u5fc5\u8981\u3060\u300d\u3068\u304b\u8a00\u3063\u3066\u304f\u308b\u4eba\u3044\u3066\u6016\u3059\u304e\u305f\u3002\u30d7\u30ed\u30d5\u3092\u898b\u305f\u3089\u3001\u6d41\u77f3\u3001\u7c9b\u6b63\u3068\u691c\u95b2\u304c\u304a\u597d\u304d\u306a\u5171\u7523\u515a\u54e1\u2026\ud83e\udd76"
+    }
+}
+Text decoded UTF-8: RT @6d745: 珍宝館のチン子さんを楽しく紹介しただけで、「性暴力だ、温泉街は赤線エリアとリンクするから一層の浄化が必要だ」とか言ってくる人いて怖すぎた。プロフを見たら、流石、粛正と検閲がお好きな共産党員…🥶
+{
+    "data": {
+        "id": "1460737033639452680",
+        "text": "@POTUS They do"
+    }
+}
+Text decoded UTF-8: @POTUS They do
+{
+    "data": {
+        "id": "1460737033647783936",
+        "text": "@OlpuO2 \u3088\u3057\u3060\u3055\u3093\u304a\u306f\u3088\u3046(?)"
+    }
+}
+Text decoded UTF-8: @OlpuO2 よしださんおはよう(?)
+{
+    "data": {
+        "id": "1460737033664610317",
+        "text": "\u0648 \u0627\u0643\u0648 \u062d\u0686\u0627\u064a\u0627\u062a \u0645\u0627 \u062a\u0646\u0642\u0627\u0644 \u0625\u0644\u0627 \u0648 \u0631\u0623\u0633\u064a \u0639\u0644\u0649 \u0635\u062f\u0631\u0643"
+    }
+}
+Text decoded UTF-8: و اكو حچايات ما تنقال إلا و رأسي على صدرك
+{
+    "data": {
+        "id": "1460737037858865153",
+        "text": "\u3042\u3089\u304b\u3058\u3081\u5efa\u7bc9\u306e\u3042\u308b\u30a6\u30a9\u30fc\u30e0\u30a2\u30c3\u30d7\u7528\u306e\u30de\u30c3\u30d7\u3067\u73cd\u3057\u304f\u4e0a\u306e\u65b9\u306b\u4e0a\u304c\u3063\u305f\u3089\u2026\u3042\u304b\u3093\u3001\u9ad8\u6240\u6050\u6016\u75c7\u304c\u51fa\u308b\u3002\u30dc\u30c3\u30af\u30b9\u4f5c\u3063\u3066\u7bed\u3082\u308c\u3070\u5e73\u6c17\u306a\u3093\u3060\u3051\u3069\u3001\u3082\u308d\u306b\u5730\u4e0a\u304c\u898b\u3048\u308b\u4e0b\u308a\u5742\u3068\u304b\u30e4\u30d0\u3044\n#\u4e2d\u8001\u306e\u624b\u7fd2\u3044 #\u30d5\u30a9\u30fc\u30c8\u30ca\u30a4\u30c8 #Fiftnite"
+    }
+}
+Text decoded UTF-8: あらかじめ建築のあるウォームアップ用のマップで珍しく上の方に上がったら…あかん、高所恐怖症が出る。ボックス作って篭もれば平気なんだけど、もろに地上が見える下り坂とかヤバい
+#中老の手習い #フォートナイト #Fiftnite
+{
+    "data": {
+        "id": "1460737037837869058",
+        "text": "@uberkabio1129 \u30f2\u30eb\u30c8\u306a\u30895\u30ad\u30ed\u3061\u3087\u3044\u307e\u3067\u983c\u3081\u307e\u3059\u3051\u3069\u3001\u30c0\u30e1\u3067\u3059\u304b\u2753"
+    }
+}
+Text decoded UTF-8: @uberkabio1129 ヲルトなら5キロちょいまで頼めますけど、ダメですか❓
+{
+    "data": {
+        "id": "1460737033652088838",
+        "text": "RT @raradiohead: \u30ec\u30c7\u30a3\u30aa\u30d8\u30c3\u30c9\nRadiohead\nIdioteque https://t.co/JmEcBu7HSt"
+    }
+}
+Text decoded UTF-8: RT @raradiohead: レディオヘッド
+Radiohead
+Idioteque https://t.co/JmEcBu7HSt
+{
+    "data": {
+        "id": "1460737033656094720",
+        "text": "RT @Cali_Cris1: OMG, Who did this? \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02 https://t.co/WXehoDDG0n"
+    }
+}
+Text decoded UTF-8: RT @Cali_Cris1: OMG, Who did this? 😂😂😂😂 https://t.co/WXehoDDG0n
+{
+    "data": {
+        "id": "1460737033635250180",
+        "text": "@favrvictor_ CORINGA IN TEXAS"
+    }
+}
+Text decoded UTF-8: @favrvictor_ CORINGA IN TEXAS
+{
+    "data": {
+        "id": "1460737033639452678",
+        "text": "@OscarMachon La c\u00f3lera de ver a un pa\u00eds tomar un giro de direcci\u00f3n hacia el desarrollo les molesta mucho a los hijos de la desgracia."
+    }
+}
+Text decoded UTF-8: @OscarMachon La cólera de ver a un país tomar un giro de dirección hacia el desarrollo les molesta mucho a los hijos de la desgracia.
+{
+    "data": {
+        "id": "1460737033668808711",
+        "text": "RT @AMOS_Bordeaux: \u27a1\ufe0fLa Gironde va revoir @LeTour 2021 \u00e0 travers une arriv\u00e9e d'\u00e9tape \u00e0 Libourne et un contre-la-montre autour de #saintemil\u2026"
+    }
+}
+Text decoded UTF-8: RT @AMOS_Bordeaux: ➡️La Gironde va revoir @LeTour 2021 à travers une arrivée d'étape à Libourne et un contre-la-montre autour de #saintemil…
+{
+    "data": {
+        "id": "1460737037837819905",
+        "text": "@schwerleg02 \u6c41\u306a\u3057\u6b63\u89e3\u3060\u3063\u305f\u3001\u6c41\u3042\u3063\u305f\u3089\u98df\u3048\u305f\u304b\u2026\ud83d\udc40"
+    }
+}
+Text decoded UTF-8: @schwerleg02 汁なし正解だった、汁あったら食えたか…👀
+{
+    "data": {
+        "id": "1460737033643741186",
+        "text": "@DolekHavva Sen ne g\u00fczelsin \u00f6yle"
+    }
+}
+Text decoded UTF-8: @DolekHavva Sen ne güzelsin öyle
+{
+    "data": {
+        "id": "1460737033647894533",
+        "text": "I tried asking a bunch of architects how best to segregate property but unfortunately they're still on the fence about the whole thing"
+    }
+}
+Text decoded UTF-8: I tried asking a bunch of architects how best to segregate property but unfortunately they're still on the fence about the whole thing
+{
+    "data": {
+        "id": "1460737037846212609",
+        "text": "RT @angerme_upfront: \u3010\u7af9\u5185\u6731\u8389Blog\u66f4\u65b0\u3011 \u3082\u3082\u306a\u3078: \u884c\u3063\u3066\u3089\u3063\u3057\u3083\u3044\u7d9a\u304d\u3092\u307f\u308b \u300e\u8457\u4f5c\u6a29\u4fdd\u8b77\u306e\u305f\u3081\u3001\u8a18\u4e8b\u306e\u4e00\u90e8\u306e\u307f\u8868\u793a\u3055\u308c\u3066\u304a\u308a\u307e\u3059\u3002\u300f https://t.co/K0bDXHXtpQ #ANGERME #\u30a2\u30f3\u30b8\u30e5\u30eb\u30e0 #\u30cf\u30ed\u30d7\u30ed https://t\u2026"
+    }
+}
+Text decoded UTF-8: RT @angerme_upfront: 【竹内朱莉Blog更新】 ももなへ: 行ってらっしゃい続きをみる 『著作権保護のため、記事の一部のみ表示されております。』 https://t.co/K0bDXHXtpQ #ANGERME #アンジュルム #ハロプロ https://t…
+{
+    "data": {
+        "id": "1460737033673007104",
+        "text": "RT @euqueapanhe: eu posso ta literalmente olhando nos seus olhos  e n\u00e3o escutar absolutamente nada do q vc ta falando"
+    }
+}
+Text decoded UTF-8: RT @euqueapanhe: eu posso ta literalmente olhando nos seus olhos  e não escutar absolutamente nada do q vc ta falando
+{
+    "data": {
+        "id": "1460737033660297217",
+        "text": "RT @nongderrr: Club Tuesday Show https://t.co/F5rvQJMW9A"
+    }
+}
+Text decoded UTF-8: RT @nongderrr: Club Tuesday Show https://t.co/F5rvQJMW9A
+{
+    "data": {
+        "id": "1460737037867184132",
+        "text": "RT @yaquimelissa: this the funniest shit i\u2019ve seen all day\ud83d\ude02\ud83d\ude02 https://t.co/SHoDkjqEpX"
+    }
+}
+Text decoded UTF-8: RT @yaquimelissa: this the funniest shit i’ve seen all day😂😂 https://t.co/SHoDkjqEpX
+{
+    "data": {
+        "id": "1460737033656225804",
+        "text": "RT @trutherbotnet: When the elite need one of their many agendas to be accepted by the public, it's done through desensitization."
+    }
+}
+Text decoded UTF-8: RT @trutherbotnet: When the elite need one of their many agendas to be accepted by the public, it's done through desensitization.
+{
+    "data": {
+        "id": "1460737033660506113",
+        "text": "@hamad_dosare \u0627\u0644\u0644\u0647\u0645 \u0625\u0646\u064a \u0623\u0635\u0628\u062d\u062a \u0623\u0634\u0647\u062f\u0643\u060c \u0648\u0623\u0634\u0647\u062f \u062d\u0645\u0644\u0629 \u0639\u0631\u0634\u0643 \u0648\u0645\u0644\u0627\u0626\u0643\u062a\u0643 \u0648\u062c\u0645\u064a\u0639 \u062e\u0644\u0642\u0643 \u0623\u0646\u0643 \u0623\u0646\u062a \u0627\u0644\u0644\u0647 \u0644\u0627 \u0625\u0644\u0647 \u0625\u0644\u0627 \u0623\u0646\u062a \u0648\u062d\u062f\u0643 \u0644\u0627 \u0634\u0631\u064a\u0643 \u0644\u0643 \u0648\u0623\u0646 \u0645\u062d\u0645\u062f\u0627 \u0639\u0628\u062f\u0643 \u0648\u0631\u0633\u0648\u0644\u0643\ud83c\udf27"
+    }
+}
+Text decoded UTF-8: @hamad_dosare اللهم إني أصبحت أشهدك، وأشهد حملة عرشك وملائكتك وجميع خلقك أنك أنت الله لا إله إلا أنت وحدك لا شريك لك وأن محمدا عبدك ورسولك🌧
+{
+    "data": {
+        "id": "1460737033639448581",
+        "text": "@ricademarre Por isso sempre compro capinha de silicone, que gruda dentro do bolso e n\u00e3o."
+    }
+}
+Text decoded UTF-8: @ricademarre Por isso sempre compro capinha de silicone, que gruda dentro do bolso e não.
+{
+    "data": {
+        "id": "1460737033647935494",
+        "text": "Kkkkkkkkkkk socorro https://t.co/8OxCi0RnXk"
+    }
+}
+Text decoded UTF-8: Kkkkkkkkkkk socorro https://t.co/8OxCi0RnXk
+{
+    "data": {
+        "id": "1460737037858848769",
+        "text": "Interested in elevating your career in Panda Express Hourly? We\u2019re hiring a Restaurant Service and Kitchen Team (1136)! Apply today: https://t.co/iB9kfc9xkd #CampHill, PA #FoodService"
+    }
+}
+Text decoded UTF-8: Interested in elevating your career in Panda Express Hourly? We’re hiring a Restaurant Service and Kitchen Team (1136)! Apply today: https://t.co/iB9kfc9xkd #CampHill, PA #FoodService
+{
+    "data": {
+        "id": "1460737033639501825",
+        "text": "mds q vergonha https://t.co/uJ2CYJ5my0"
+    }
+}
+Text decoded UTF-8: mds q vergonha https://t.co/uJ2CYJ5my0
+{
+    "data": {
+        "id": "1460737037858861056",
+        "text": "RT @_Mythir: Reupload \u2764\ufe0f for her court. https://t.co/w2Yd9PsVS2"
+    }
+}
+Text decoded UTF-8: RT @_Mythir: Reupload ❤️ for her court. https://t.co/w2Yd9PsVS2
+{
+    "data": {
+        "id": "1460737037829431299",
+        "text": "@etheralma CW NYA YG BENER DONG???????!?"
+    }
+}
+Text decoded UTF-8: @etheralma CW NYA YG BENER DONG???????!?
+{
+    "data": {
+        "id": "1460737033643585540",
+        "text": "RT @GrimAvenue: I\u2019m not so much an adult as I am a teenager with joint pain."
+    }
+}
+Text decoded UTF-8: RT @GrimAvenue: I’m not so much an adult as I am a teenager with joint pain.
+{
+    "data": {
+        "id": "1460737033635184642",
+        "text": "RT @moniwar_game: [ANNOUNCEMENT] NFT MARKETPLACE FEATURES RELEASE\n\nStarting from 3PM (UTC) on November 18, 2021, Moniwar will officially la\u2026"
+    }
+}
+Text decoded UTF-8: RT @moniwar_game: [ANNOUNCEMENT] NFT MARKETPLACE FEATURES RELEASE
+
+Starting from 3PM (UTC) on November 18, 2021, Moniwar will officially la…
+{
+    "data": {
+        "id": "1460737037863383040",
+        "text": "\u300c\u30a2\u30fc\u30e6\u30fc\u30db\u30fc\u30b1\u30a4\uff1f\u300d\u300c\u3046\u308b\u305b\u3048\u6b7b\u306d\u300d"
+    }
+}
+Text decoded UTF-8: 「アーユーホーケイ？」「うるせえ死ね」
+{
+    "data": {
+        "id": "1460737037842145287",
+        "text": "RT @uaizau: antes e depois da cabeleireira leila #afazenda https://t.co/8pOe7oAOLS"
+    }
+}
+Text decoded UTF-8: RT @uaizau: antes e depois da cabeleireira leila #afazenda https://t.co/8pOe7oAOLS
+{
+    "data": {
+        "id": "1460737033660469253",
+        "text": "RT @emily_tweets: I think one of the bravest things a person can do, is to feel their feelings."
+    }
+}
+Text decoded UTF-8: RT @emily_tweets: I think one of the bravest things a person can do, is to feel their feelings.
+{
+    "data": {
+        "id": "1460737033656283147",
+        "text": "im not feeling this pfp should i change back"
+    }
+}
+Text decoded UTF-8: im not feeling this pfp should i change back
+{
+    "data": {
+        "id": "1460737033668907013",
+        "text": "@rewlitys porca"
+    }
+}
+Text decoded UTF-8: @rewlitys porca
+{
+    "data": {
+        "id": "1460737033660469262",
+        "text": "RT @guilhermesacco: Esse time divide a mesma prateleira que o da Democracia e n\u00e3o \u00e9 de hoje. Hoje foi s\u00f3 mais um exemplo. https://t.co/ksn0\u2026"
+    }
+}
+Text decoded UTF-8: RT @guilhermesacco: Esse time divide a mesma prateleira que o da Democracia e não é de hoje. Hoje foi só mais um exemplo. https://t.co/ksn0…
+{
+    "data": {
+        "id": "1460737033656320010",
+        "text": "\u2014\u2014 \ud83d\udd4a ;  (#daily )  \n                       \u2014\u2014  ;  \ud80c\uddb8\n\n\u0130nsanlar\u0131n mutluluk olas\u0131l\u0131\u011f\u0131 ne kadar y\u00fckselirse, mutsuzluklar\u0131 da o kadar art\u0131yor demek. https://t.co/htxXBchZPz"
+    }
+}
+Text decoded UTF-8: —— 🕊 ;  (#daily )  
+                       ——  ;  𓆸
+
+İnsanların mutluluk olasılığı ne kadar yükselirse, mutsuzlukları da o kadar artıyor demek. https://t.co/htxXBchZPz
+{
+    "data": {
+        "id": "1460737033668861952",
+        "text": "#jinek #shell #op1 #Nieuwsuur #half8 https://t.co/gNbRLYKn1F"
+    }
+}
+Text decoded UTF-8: #jinek #shell #op1 #Nieuwsuur #half8 https://t.co/gNbRLYKn1F
+{
+    "data": {
+        "id": "1460737037834006529",
+        "text": "@sanoki0509 \u30ad\u30e3\u30f3\u30da\u30fc\u30f3\u306e\u3054\u53c2\u52a0\u3042\u308a\u304c\u3068\u3046\u3054\u3056\u3044\u307e\u3059\u2757\ufe0f\n#\u30b1\u30f3\u30bf\u306e\u3088\u304f\u3070\u308a\u7cfb\u30b5\u30f3\u30c9 \u304c\u304a\u30c8\u30af\u306b\u30b2\u30c3\u30c8\u3067\u304d\u308b\u30af\u30fc\u30dd\u30f3\u30d7\u30ec\u30bc\u30f3\u30c8\ud83c\udfab\u2728\n\u63da\u3052\u7269\u00d7\u63da\u3052\u7269\u306e\u201d\u3088\u304f\u3070\u308a\u201d\u306a\u30dc\u30ea\u30e5\u30fc\u30e0\u6e80\u70b9\ud83c\udf54\u300e\u30c1\u30ad\u30f3\u30d5\u30a3\u30ec&amp;\u30e1\u30f3\u30c1\u30ab\u30c4\u30b5\u30f3\u30c9\u300f\u3092\u3053\u306e\u6a5f\u4f1a\u306b\u305c\u3072\u2757\ufe0f\n\u27a1https://t.co/qq5MYETZYC\n#KFC https://t.co/qyJkTsXX4m"
+    }
+}
+Text decoded UTF-8: @sanoki0509 キャンペーンのご参加ありがとうございます❗️
+#ケンタのよくばり系サンド がおトクにゲットできるクーポンプレゼント🎫✨
+揚げ物×揚げ物の”よくばり”なボリューム満点🍔『チキンフィレ&amp;メンチカツサンド』をこの機会にぜひ❗️
+➡https://t.co/qq5MYETZYC
+#KFC https://t.co/qyJkTsXX4m
+{
+    "data": {
+        "id": "1460737033635344385",
+        "text": "RT @GeniusLab_CMO: Esse aerolook do Yoongi \u00e9 eterno https://t.co/ytK5QgpgUg"
+    }
+}
+Text decoded UTF-8: RT @GeniusLab_CMO: Esse aerolook do Yoongi é eterno https://t.co/ytK5QgpgUg
+{
+    "data": {
+        "id": "1460737033647923200",
+        "text": "Literalmente todos nos re\u00edamos pa no llorar, lo bueno es que nos pon\u00edamos nota entre nosotros"
+    }
+}
+Text decoded UTF-8: Literalmente todos nos reíamos pa no llorar, lo bueno es que nos poníamos nota entre nosotros
+{
+    "data": {
+        "id": "1460737037837815811",
+        "text": "RT @kondo_tokaku: \u5b8c\u6210\u3055\u305b\u308b\u30bf\u30a4\u30df\u30f3\u30b0\u3092\u5931\u3063\u305f\u306e\u3067\u3053\u3053\u307e\u3067 https://t.co/JPAuCu83EZ"
+    }
+}
+Text decoded UTF-8: RT @kondo_tokaku: 完成させるタイミングを失ったのでここまで https://t.co/JPAuCu83EZ
+{
+    "data": {
+        "id": "1460737037829820416",
+        "text": "\u30c7\u30fc\u30bf\u3092\u53d6\u308a\u305f\u3044\u3068\u4ef0\u308b\u306e\u306a\u3089\u3001\u304a\u65ad\u308a\u3057\u3066\u3001\u50d5\u306f\u3053\u3053\u3092\u96e2\u308c\u307e\u3059\u3002\u596a\u304a\u3046\u3068\u3055\u308c\u308b\u306e\u306a\u3089\u3001\u6575\u5bfe\u3057\u3066\u3082\u5b88\u308a\u307e\u3059\u3002\n\u3042\u308c\u3092\u8a17\u3055\u308c\u305f\u3001\u50d5\u306e\u8cac\u4efb\u3067\u3059\u3002\u3000\uff03\u723d\u30ad\u30e9bot"
+    }
+}
+Text decoded UTF-8: データを取りたいと仰るのなら、お断りして、僕はここを離れます。奪おうとされるのなら、敵対しても守ります。
+あれを託された、僕の責任です。　＃爽キラbot
+{
+    "data": {
+        "id": "1460737037867405314",
+        "text": "@JusticiaEsPaz35 @IvanDuque La \u00e9tica profesional ni se compra ni se vende? La rectitud la honestidad y la justicia ante todo. Al pueblo no se enga\u00f1a."
+    }
+}
+Text decoded UTF-8: @JusticiaEsPaz35 @IvanDuque La ética profesional ni se compra ni se vende? La rectitud la honestidad y la justicia ante todo. Al pueblo no se engaña.
+{
+    "data": {
+        "id": "1460737037846388738",
+        "text": "J'ai juste besoin d'un voyage seule pour me ressourcer je crois bien"
+    }
+}
+Text decoded UTF-8: J'ai juste besoin d'un voyage seule pour me ressourcer je crois bien
+{
+    "data": {
+        "id": "1460737037834002433",
+        "text": "\u30e9\u30af\u306b\u3044\u3053\u3046\u305c!!\u3000\u307e\u305f\u8d70\u308a\u51fa\u305b\u308b\u3000\u50d5\u3089\u306e\u30b9\u30c8\u30fc\u30ea\u30fc\u3000\u5fc3\u306e\u5730\u56f3\u5e83\u3052\u3066\u3000\u305f\u3081\u3089\u3044\u304c\u3061\u306a\u3000\u7a7a\u306e\u5411\u3053\u3046\u5074\u3078\u3000\u50d5\u3089\u306a\u3089\u8d85\u3048\u3066\u3086\u3051\u308b\u3055\u3000\u3010\u30b9\u30c8\u30fc\u30ea\u30fc\uff0f\u3086\u305a\u3000\u8a5e\u30fb\u66f2\uff1a\u5317\u5ddd\u60a0\u4ec1\u3011"
+    }
+}
+Text decoded UTF-8: ラクにいこうぜ!!　また走り出せる　僕らのストーリー　心の地図広げて　ためらいがちな　空の向こう側へ　僕らなら超えてゆけるさ　【ストーリー／ゆず　詞・曲：北川悠仁】
+{
+    "data": {
+        "id": "1460737037867565058",
+        "text": "\u3010\u4ed5\u4e8b\u8ad6\u3011\n\u9762\u767d\u3044\u3082\u306e\u304c\u3042\u308c\u3070\u3001\u305d\u3063\u3061\u3078\u3044\u304f\u3002\n\u305d\u3046\u30b7\u30f3\u30d7\u30eb\u306b\u8003\u3048\u308b\u4eba\u304c\u3001\u7d50\u679c\u7684\u306b\u606f\u9577\u304f\u3084\u3063\u3066\u3044\u3051\u308b\u3068\u601d\u3044\u307e\u3059\u3002\n\nHIKAKIN"
+    }
+}
+Text decoded UTF-8: 【仕事論】
+面白いものがあれば、そっちへいく。
+そうシンプルに考える人が、結果的に息長くやっていけると思います。
+
+HIKAKIN
+{
+    "data": {
+        "id": "1460737037854781452",
+        "text": "RT @h_frankenthaler: Yearning, 1973 #frankenthaler #americanart https://t.co/MY37WDP3ae"
+    }
+}
+Text decoded UTF-8: RT @h_frankenthaler: Yearning, 1973 #frankenthaler #americanart https://t.co/MY37WDP3ae
+{
+    "data": {
+        "id": "1460737042053144580",
+        "text": "\u30de\u30eb\u30db\u30e9\u30f3\u30c9\u3092\u8d70\u308b\u30d0\u30a4\u30af\u3084\u8eca\u306e\u52d5\u753b\u3042\u3052\u3066\u305f\u30c1\u30e3\u30f3\u30cd\u30eb\u3088\u304f\u898b\u3066\u305f\u306a&gt;RT"
+    }
+}
+Text decoded UTF-8: マルホランドを走るバイクや車の動画あげてたチャンネルよく見てたな&gt;RT
+{
+    "data": {
+        "id": "1460737037842194438",
+        "text": "RT @Queen__Eliz: Calm Night \ud83c\udf3c\ud83c\udf1f\u2728\ud83c\udf3c\n\u00a9\ufe0f @kylefinndempsey \n\n#NaturePhotography #nature https://t.co/7sBPEWcPko"
+    }
+}
+Text decoded UTF-8: RT @Queen__Eliz: Calm Night 🌼🌟✨🌼
+©️ @kylefinndempsey 
+
+#NaturePhotography #nature https://t.co/7sBPEWcPko
+{
+    "data": {
+        "id": "1460737037833838595",
+        "text": "\u0644\u0645\u0627 \u062a\u0639\u064a\u0634 \u0628\u0639\u0641\u0648\u064a\u062a\u0643 \u0639 \u0637\u0628\u064a\u0639\u062a\u0643 \u062a\u0643\u0648\u0646 \u0623\u062c\u0645\u0644 \u0645\u0646 \u0627\u0646\u0643 \u062a\u062a\u0635\u0646\u0639 \u0634\u062e\u0635\u064a\u0647 \u0645 \u062a\u0644\u064a\u0642 \u0639\u0644\u064a\u0643"
+    }
+}
+Text decoded UTF-8: لما تعيش بعفويتك ع طبيعتك تكون أجمل من انك تتصنع شخصيه م تليق عليك
+{
+    "data": {
+        "id": "1460737042036387849",
+        "text": "@hharu_08 \uc73c\uc545\uc545\uc545\uc544\uc544\uc545\uc545\uc544\ud558\uc9c0\ub9c8"
+    }
+}
+Text decoded UTF-8: @hharu_08 으악악악아아악악아하지마
+{
+    "data": {
+        "id": "1460737037867356162",
+        "text": "dis nigga got me cryin https://t.co/TmqQ6q2tK3 https://t.co/iqRVuTEwk5"
+    }
+}
+Text decoded UTF-8: dis nigga got me cryin https://t.co/TmqQ6q2tK3 https://t.co/iqRVuTEwk5
+{
+    "data": {
+        "id": "1460737037863198721",
+        "text": "@SeivwrightTrudy Crickets\u2026.there isn\u2019t one"
+    }
+}
+Text decoded UTF-8: @SeivwrightTrudy Crickets….there isn’t one
+{
+    "data": {
+        "id": "1460737042053099520",
+        "text": "RT @to_ni_ki_chi: \u571fVC\u3067\u53d6\u308a\u306b\u884c\u304b\u305a\u306b\u5f8c\u6094\u3057\u3066\u3044\u305f\u3084\u3064\u304c\u6765\u305f\ud83d\ude0d #\u5e7b\u5f71\u6226\u4e892\u5468\u5e74 https://t.co/GAKjKbwC33"
+    }
+}
+Text decoded UTF-8: RT @to_ni_ki_chi: 土VCで取りに行かずに後悔していたやつが来た😍 #幻影戦争2周年 https://t.co/GAKjKbwC33
+{
+    "data": {
+        "id": "1460737037829607429",
+        "text": "yok aga harbi instasi olan erkekle olmazmis zamaninda dogru konusmusuz uykularim kaciyo geceleri bu fikirle"
+    }
+}
+Text decoded UTF-8: yok aga harbi instasi olan erkekle olmazmis zamaninda dogru konusmusuz uykularim kaciyo geceleri bu fikirle
+{
+    "data": {
+        "id": "1460737037829611528",
+        "text": "ATV i\u00e7in art\u0131k b\u00f6yle #edho https://t.co/YmL5mp43z1"
+    }
+}
+Text decoded UTF-8: ATV için artık böyle #edho https://t.co/YmL5mp43z1
+{
+    "data": {
+        "id": "1460737037854818307",
+        "text": "RT @a1david8: recently https://t.co/11cy1KGLrA"
+    }
+}
+Text decoded UTF-8: RT @a1david8: recently https://t.co/11cy1KGLrA
+{
+    "data": {
+        "id": "1460737037863161859",
+        "text": "@Myberns1 If they die they die, I don't know them so I won't feel sad.\nI won't pity them or their families &amp; friends.\nI won't argue with their paranoia but I will say that it's just as much their fault for dying as it would be if they weren't paranoid and the vax did have killing intent."
+    }
+}
+Text decoded UTF-8: @Myberns1 If they die they die, I don't know them so I won't feel sad.
+I won't pity them or their families &amp; friends.
+I won't argue with their paranoia but I will say that it's just as much their fault for dying as it would be if they weren't paranoid and the vax did have killing intent.
+{
+    "data": {
+        "id": "1460737042036543490",
+        "text": "RT @abhimishh: Apt. https://t.co/FX0VJzCQfi"
+    }
+}
+Text decoded UTF-8: RT @abhimishh: Apt. https://t.co/FX0VJzCQfi
+{
+    "data": {
+        "id": "1460737042044702720",
+        "text": "\u304a\u306f\u3088\u30fc\uff01\n\u4eca\u65e5\u3082\u5bd2\u3044\u306d\u301c\uff01\n\u671d\u4e2d\u3005\u304a\u5e03\u56e3\u304c\n\u50d5\u3092\u96e2\u3057\u3066\u304f\u308c\u306a\u3044\u3067\u3059(\u3048\uff1f)"
+    }
+}
+Text decoded UTF-8: おはよー！
+今日も寒いね〜！
+朝中々お布団が
+僕を離してくれないです(え？)
+{
+    "data": {
+        "id": "1460737037859016705",
+        "text": "@CinemaxX\nIch hasse euch und jeden einzelnen Mitarbeiter so abgrundtief dass ich es besser nicht \u00f6ffentlich in Worte fasse. \ud83d\udd95\ud83d\udd95\ud83d\udd95\ud83d\udd95\ud83d\udd95\ud83d\udd95\ud83d\udd95\ud83d\udd95\ud83d\udd95\ud83d\udd95\ud83d\udd95\ud83d\udd95\ud83d\udd95\ud83d\udd95\ud83d\udd95\ud83d\udd95\ud83d\udd95\ud83d\udd95\ud83d\udd95\ud83d\udd95\ud83d\udd95 https://t.co/wYZw2LOjS8"
+    }
+}
+Text decoded UTF-8: @CinemaxX
+Ich hasse euch und jeden einzelnen Mitarbeiter so abgrundtief dass ich es besser nicht öffentlich in Worte fasse. 🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕 https://t.co/wYZw2LOjS8
+{
+    "data": {
+        "id": "1460737042028007425",
+        "text": "RT @dancedancetance: \ud83d\udd25\u30ac\ud83d\udd25\u30c1\ud83d\udd25\u30a4\ud83d\udd25\u30d9\ud83d\udd25\n\n\u30c9\u30e9\u30e0\u5973\u5b50\ud83e\udd41\ud83c\ude01\u90e8\u306e\u5fc3\u611b\u3061\u3083\u3093\nPopteen\u63b2\u8f09\u30a4\u30d9\u30f3\u30c8\u306b\u53c2\u6226\u4e2d\u203c\ufe0f\n \n\u30a4\u30d9\u30f3\u30c8\u306e\u30eb\u30fc\u30eb\u306b\u3088\u308a\u3001\n\u914d\u4fe1\u6642\u9593\u306f\u6bce\u65e5\u301020:00\u3011\u307e\u3067\u3067\u3059\u3002\n\n\u304a\u624b\u6301\u3061\u306e\u30a2\u30a4\u30c6\u30e0\u3068\u300c\u9811\u5f35\u3063\u3066\u300d\u306e\u4e00\u8a00\n\u305c\u3072\u304b\u3051\u3066\u3042\u3052\u3066\u4e0b\u3055\u3044\u2763\ufe0f\n\u53ef\u611b\u2026"
+    }
+}
+Text decoded UTF-8: RT @dancedancetance: 🔥ガ🔥チ🔥イ🔥ベ🔥
+
+ドラム女子🥁🈁部の心愛ちゃん
+Popteen掲載イベントに参戦中‼️
+ 
+イベントのルールにより、
+配信時間は毎日【20:00】までです。
+
+お手持ちのアイテムと「頑張って」の一言
+ぜひかけてあげて下さい❣️
+可愛…
+{
+    "data": {
+        "id": "1460737037846429704",
+        "text": "La \u00f3rdenes de alejamiento son una cosa muy seria hay que ser muy facha y sinverg\u00fcenza para frivolizar con eso. Hay v\u00edctimas de violencia de g\u00e9nero que piden que se endurezca la \u00f3rdenes de alejamiento. Que horror los portistas. #SecretCuentaAtr\u00e1s10"
+    }
+}
+Text decoded UTF-8: La órdenes de alejamiento son una cosa muy seria hay que ser muy facha y sinvergüenza para frivolizar con eso. Hay víctimas de violencia de género que piden que se endurezca la órdenes de alejamiento. Que horror los portistas. #SecretCuentaAtrás10
+{
+    "data": {
+        "id": "1460737037858975750",
+        "text": "RT @hotwifekass: Tardecitas!!! https://t.co/WFladJCXdI"
+    }
+}
+Text decoded UTF-8: RT @hotwifekass: Tardecitas!!! https://t.co/WFladJCXdI
+{
+    "data": {
+        "id": "1460737042048970752",
+        "text": "@tinywinniebity_ blm, masih dingin bgt"
+    }
+}
+Text decoded UTF-8: @tinywinniebity_ blm, masih dingin bgt
+{
+    "data": {
+        "id": "1460737037838036994",
+        "text": "RT @NitiSarran: Don't let anyone make your accomplishments seem smaller than they are. Comparison is destruction."
+    }
+}
+Text decoded UTF-8: RT @NitiSarran: Don't let anyone make your accomplishments seem smaller than they are. Comparison is destruction.
+{
+    "data": {
+        "id": "1460737037842395140",
+        "text": "@mohamadmm1111 @binance There's not much left\ud83d\ude0dGO\u2192\u2192CRYPGIFTS dot COM"
+    }
+}
+Text decoded UTF-8: @mohamadmm1111 @binance There's not much left😍GO→→CRYPGIFTS dot COM
+{
+    "data": {
+        "id": "1460737042044702724",
+        "text": "RT @oyaki_shunsaika: \u3010#\u307e\u3055\u304b\u306e\u30d1\u30f3\u5c4b\u30b3\u30e9\u30dc\u3011\n\u30b8\u30a7\u30a4\u30ba\u30d9\u30fc\u30ab\u30ea\u30fc\u3055\u3093\u306e\u30d1\u30a6\u30f3\u30c9\u30b1\u30fc\u30ad\u624b\u4f5c\u308a\u30ad\u30c3\u30c8\u3068\u65ec\u83dc\u82b1\u306e\u51b7\u51cd\u30d1\u30f3&amp;\u30aa\u30e4\u30e9\u30c3\u30d7\u304c4\u540d\u69d8\u306b\u5f53\u305f\u308a\u307e\u3059\ud83c\udf5e\n\n\u300a\u5fdc\u52df\u6761\u4ef6 \u300b\n1\ufe0f\u20e3 @homebakery2020 \n\u3068@oyaki_shunsaika 2\u793e\u3092\u30d5\u2026"
+    }
+}
+Text decoded UTF-8: RT @oyaki_shunsaika: 【#まさかのパン屋コラボ】
+ジェイズベーカリーさんのパウンドケーキ手作りキットと旬菜花の冷凍パン&amp;オヤラップが4名様に当たります🍞
+
+《応募条件 》
+1️⃣ @homebakery2020 
+と@oyaki_shunsaika 2社をフ…
+{
+    "data": {
+        "id": "1460737037850624006",
+        "text": "RT @FatinKayran: Soyda\u015flar\u0131m\u0131za yap\u0131lan soyk\u0131r\u0131m\u0131 biliyor olmas\u0131na ra\u011fmen vatan\u0131n\u0131n \u00c7in oldu\u011funu, kendisinin de \u00c7inli oldu\u011funu s\u00f6yleyen MAD\u2026"
+    }
+}
+Text decoded UTF-8: RT @FatinKayran: Soydaşlarımıza yapılan soykırımı biliyor olmasına rağmen vatanının Çin olduğunu, kendisinin de Çinli olduğunu söyleyen MAD…
+{
+    "data": {
+        "id": "1460737042027974658",
+        "text": "RT @Athlon0011: \u5927\u5b66\u751f\u3088\u308a\u9ad8\u6821\u751f\u306e\u65b9\u304c\u52c7\u6562\u306a\u7537\u304c\u591a\u3044\ud83d\ude0a\u2728\n\n\u300c\u6050\u6016\u5fc3\u3088\u308a\u3082\u81ea\u5206\u304c\u6b62\u3081\u306a\u3051\u308c\u3070\u300d\u5bb9\u7591\u8005\u3092\u53d6\u308a\u62bc\u3055\u3048\u305f\u9ad8\u6821\u751f\u300aJR\u798f\u5cf6\u99c5\u524d\u30fb\u523a\u50b7\u4e8b\u4ef6\u300b(\u798f\u5cf6\u30c6\u30ec\u30d3)\n#Yahoo\u30cb\u30e5\u30fc\u30b9\nhttps://t.co/tyELxH7jT7"
+    }
+}
+Text decoded UTF-8: RT @Athlon0011: 大学生より高校生の方が勇敢な男が多い😊✨
+
+「恐怖心よりも自分が止めなければ」容疑者を取り押さえた高校生《JR福島駅前・刺傷事件》(福島テレビ)
+#Yahooニュース
+https://t.co/tyELxH7jT7
+{
+    "data": {
+        "id": "1460737042032201735",
+        "text": "RT @dailybtspcs: https://t.co/gdVb7M6F9v"
+    }
+}
+Text decoded UTF-8: RT @dailybtspcs: https://t.co/gdVb7M6F9v
+{
+    "data": {
+        "id": "1460737042028314625",
+        "text": "\u306d\u3063\u3063\u3064\u3080"
+    }
+}
+Text decoded UTF-8: ねっっつむ
+{
+    "data": {
+        "id": "1460737037858861060",
+        "text": "RT @Bang_Garr: || 200 USD || 2,8 JUTA IDR || \n|| one winner || Garangan 01 ||\n\nRetweet, follow me and\n\n100 USD to follow @bitshibatoken\n\n10\u2026"
+    }
+}
+Text decoded UTF-8: RT @Bang_Garr: || 200 USD || 2,8 JUTA IDR || 
+|| one winner || Garangan 01 ||
+
+Retweet, follow me and
+
+100 USD to follow @bitshibatoken
+
+10…
+{
+    "data": {
+        "id": "1460737042053275648",
+        "text": "RT @HaloTheSeries: Hello, Master Chief. #HaloTheSeries streaming 2022, exclusively on @ParamountPlus. https://t.co/xjmMNrvwLO"
+    }
+}
+Text decoded UTF-8: RT @HaloTheSeries: Hello, Master Chief. #HaloTheSeries streaming 2022, exclusively on @ParamountPlus. https://t.co/xjmMNrvwLO
+{
+    "data": {
+        "id": "1460737037850529796",
+        "text": "@yoosungkicia ha ha! dobry zart kolego!\ud83d\ude04"
+    }
+}
+Text decoded UTF-8: @yoosungkicia ha ha! dobry zart kolego!😄
+{
+    "data": {
+        "id": "1460737037858795527",
+        "text": "RT @kuhanaina: \u304a\u306f\u3088\u3046\u304f\u308f\u306a\u3063\ud83d\ude33\n\u304a\u306f\u304f\u308f\u3063\ud83d\udd25\ud83d\udd25\ud83d\udd25 https://t.co/vc4CJq0viv"
+    }
+}
+Text decoded UTF-8: RT @kuhanaina: おはようくわなっ😳
+おはくわっ🔥🔥🔥 https://t.co/vc4CJq0viv
+{
+    "data": {
+        "id": "1460737037859016704",
+        "text": "@biblicalyaoi I listen to nicoles"
+    }
+}
+Text decoded UTF-8: @biblicalyaoi I listen to nicoles
+{
+    "data": {
+        "id": "1460737042057670656",
+        "text": "\u30d1\u30df\u30d1\u30b7\u306e\u30e2\u30fc\u30cb\u30f3\u30b0\u30fb\u671d(\u4eee)\uff01PC\u304b\u3089\u30ad\u30e3\u30b9\u914d\u4fe1\u4e2d -  https://t.co/BzzvLI3yCr #\u30d1\u30df\u30d1\u30b7"
+    }
+}
+Text decoded UTF-8: パミパシのモーニング・朝(仮)！PCからキャス配信中 -  https://t.co/BzzvLI3yCr #パミパシ
+{
+    "data": {
+        "id": "1460737042048974850",
+        "text": "@KVD60149055 @RShivshankar @RahulGandhi empty skull sanghies missed physics classes while attending nonsense at shakha ... study newton's third low ..if you understand physics then you will never waste time and space of others ..."
+    }
+}
+Text decoded UTF-8: @KVD60149055 @RShivshankar @RahulGandhi empty skull sanghies missed physics classes while attending nonsense at shakha ... study newton's third low ..if you understand physics then you will never waste time and space of others ...
+{
+    "data": {
+        "id": "1460737042053218309",
+        "text": "RT @team_greenacres: \ud83d\ude3aPlease RT to help Yard/Stable #cats get homes\ud83d\ude3a\n\nWe have semi-feral/feral cats looking for outside, rural homes\n\nhttps\u2026"
+    }
+}
+Text decoded UTF-8: RT @team_greenacres: 😺Please RT to help Yard/Stable #cats get homes😺
+
+We have semi-feral/feral cats looking for outside, rural homes
+
+https…
+{
+    "data": {
+        "id": "1460737042061701122",
+        "text": "faaz parte n\u00e9"
+    }
+}
+Text decoded UTF-8: faaz parte né
+{
+    "data": {
+        "id": "1460737042053320720",
+        "text": "RT @PapiTrumpo: BOOOM!!! LOVE IT!!! https://t.co/5JbcAOdHg8"
+    }
+}
+Text decoded UTF-8: RT @PapiTrumpo: BOOOM!!! LOVE IT!!! https://t.co/5JbcAOdHg8
+{
+    "data": {
+        "id": "1460737042044882947",
+        "text": "RT @KTS_Stories: Maybe it was all the feature stories on \u201chow to understand and sympathize with people who hate others\u201d y\u2019all wrote. https:\u2026"
+    }
+}
+Text decoded UTF-8: RT @KTS_Stories: Maybe it was all the feature stories on “how to understand and sympathize with people who hate others” y’all wrote. https:…
+{
+    "data": {
+        "id": "1460737042040729604",
+        "text": "@rafacraw let's collab yo"
+    }
+}
+Text decoded UTF-8: @rafacraw let's collab yo
+{
+    "data": {
+        "id": "1460737046247444484",
+        "text": "@Arusan178 \u81ea\u5206\u3082\u4f3c\u305f\u3088\u3046\u306a\u5883\u9047\u3060\u3063\u305f\u306e\u3067\u65b0\u5352\u3067\u5165\u3063\u305f\u4f1a\u793e\u30922\u5e74\u76ee\u306e\u590f\u3067\u8f9e\u3081\u3066\u8ee2\u8077\u3057\u307e\u3057\u305f\n\u4eca\u306e\u8077\u5834\u306b\u8ee2\u8077\u3057\u3066\u7d66\u6599\u306f\u4e0b\u304c\u308a\u307e\u3057\u305f\u304c\u4f11\u307f\u591a\u304f\u3066\u4ed5\u4e8b\u306e\u30b9\u30c8\u30ec\u30b9\u3082\u306a\u304f\u5feb\u9069\u306b\u904e\u3054\u305b\u3066\u3044\u308b\u306e\u3067\u672c\u5f53\u306b\u8f9b\u3044\u306a\u3089\u65e9\u3081\u306b\u884c\u52d5\u3059\u308b\u307b\u3046\u304c\u3044\u3044\u3068\u601d\u3044\u307e\u3059\n\u7c3f\u8a18\u306e\u6709\u7121\u306f\u8ee2\u8077\u5148\u306e\u4ed5\u4e8b\u306b\u3082\u3088\u308a\u307e\u3059\u304c\u6b63\u76f4\u5927\u5dee\u306a\u3044\u6c17\u304c\u3057\u307e\u3059"
+    }
+}
+Text decoded UTF-8: @Arusan178 自分も似たような境遇だったので新卒で入った会社を2年目の夏で辞めて転職しました
+今の職場に転職して給料は下がりましたが休み多くて仕事のストレスもなく快適に過ごせているので本当に辛いなら早めに行動するほうがいいと思います
+簿記の有無は転職先の仕事にもよりますが正直大差ない気がします
+{
+    "data": {
+        "id": "1460737042023858180",
+        "text": "We hope you like Thousand Roads, A - Frank A. Dicker Sr. @frankdicker2 on https://t.co/4pbrQeiYkV"
+    }
+}
+Text decoded UTF-8: We hope you like Thousand Roads, A - Frank A. Dicker Sr. @frankdicker2 on https://t.co/4pbrQeiYkV
+{
+    "data": {
+        "id": "1460737046226808833",
+        "text": "\u4eca\u3069\u30e4\u30b0\u30e9\u3055\u3093\u306b\u304d\u3044\u3066\u307f\u3088\u3046"
+    }
+}
+Text decoded UTF-8: 今どヤグラさんにきいてみよう
+{
+    "data": {
+        "id": "1460737042032304135",
+        "text": "finalizei meu \u00faltimo trevas com sajanka em 2018, e vou reabrir com o mesmo, vem dia 20 \ud83e\udd70"
+    }
+}
+Text decoded UTF-8: finalizei meu último trevas com sajanka em 2018, e vou reabrir com o mesmo, vem dia 20 🥰
+{
+    "data": {
+        "id": "1460737042040635396",
+        "text": "RT @GeorgeSzamuely: Definitely worth investing time and money in. Assange is a first-rate thinker and an excellent writer. It is good to he\u2026"
+    }
+}
+Text decoded UTF-8: RT @GeorgeSzamuely: Definitely worth investing time and money in. Assange is a first-rate thinker and an excellent writer. It is good to he…
+{
+    "data": {
+        "id": "1460737042040696832",
+        "text": "@leonardo_luti Hallowizard&gt;&gt;&gt;&gt;&gt;&gt;&gt; tomorrowland"
+    }
+}
+Text decoded UTF-8: @leonardo_luti Hallowizard&gt;&gt;&gt;&gt;&gt;&gt;&gt; tomorrowland
+{
+    "data": {
+        "id": "1460737042048978949",
+        "text": "@T_Williams_News @wane15 @BreBrownleeTV The city council is spineless, gutless and chicken shit to do anything, if they had any balls at all they woulda done this ages ago!"
+    }
+}
+Text decoded UTF-8: @T_Williams_News @wane15 @BreBrownleeTV The city council is spineless, gutless and chicken shit to do anything, if they had any balls at all they woulda done this ages ago!
+{
+    "data": {
+        "id": "1460737046226489348",
+        "text": "@Libra_1410 \u982d\u4f7f\u3046\u3068\u304d\u7cd6\u5206\u5fc5\u9808\u3067\u3059\u3088\u306d\ud83d\udcad\n\u30a8\u30a2\u30ed\u30a4\u30bawwwww\u7a7a\u6c17\u6905\u5b50\u307f\u305f\u3044\u306awww(\u5168\u7136\u9055\u3046)\n\u307e\u305f\u4eca\u5ea6\u4f1a\u3048\u308b\u6a5f\u4f1a\u3042\u3063\u305f\u6301\u3063\u3066\u304f\u306e\u3067\u307e\u3063\u3066\u3066\u304f\u3060\u3055\u3044( U \u0442  \u032b \u0442 )"
+    }
+}
+Text decoded UTF-8: @Libra_1410 頭使うとき糖分必須ですよね💭
+エアロイズwwwww空気椅子みたいなwww(全然違う)
+また今度会える機会あった持ってくのでまっててください( U т  ̫ т )
+{
+    "data": {
+        "id": "1460737046222446597",
+        "text": "Todo bien pero a veces medio que se me antoja recibir un \"sal\u00ed afuera a recibir el a\u00e7a\u00ed que te mande\" \ud83d\ude2a"
+    }
+}
+Text decoded UTF-8: Todo bien pero a veces medio que se me antoja recibir un "salí afuera a recibir el açaí que te mande" 😪
+{
+    "data": {
+        "id": "1460737042053484544",
+        "text": "\uc544\uce68 \uba39\uc73c\ub7ec \uac00\uc790~"
+    }
+}
+Text decoded UTF-8: 아침 먹으러 가자~
+{
+    "data": {
+        "id": "1460737042023780357",
+        "text": "RT @K__A__N91: \u30b4\u30eb\u30bf\u30a4\u4e2d\u3053\u308c\u3057\u3066\u307e\u3059 https://t.co/sqBBiDu14B"
+    }
+}
+Text decoded UTF-8: RT @K__A__N91: ゴルタイ中これしてます https://t.co/sqBBiDu14B
+{
+    "data": {
+        "id": "1460737042057515009",
+        "text": "NOOOOO PQ DE 5TO \u00c9L DEBERIA DE ESTAR COMO MUCHO DE SEGUNDO WTFFFF https://t.co/ndze0Msh3K"
+    }
+}
+Text decoded UTF-8: NOOOOO PQ DE 5TO ÉL DEBERIA DE ESTAR COMO MUCHO DE SEGUNDO WTFFFF https://t.co/ndze0Msh3K
+{
+    "data": {
+        "id": "1460737042061664256",
+        "text": "RT @mfaome: Macron est un artiste, ce changement de teinte repr\u00e9sente les t\u00e9n\u00e8bres dans lesquels s\u2019engouffrent notre pays"
+    }
+}
+Text decoded UTF-8: RT @mfaome: Macron est un artiste, ce changement de teinte représente les ténèbres dans lesquels s’engouffrent notre pays
+{
+    "data": {
+        "id": "1460737042061664265",
+        "text": "@zjk95x \u0627\u0644\u06af\u0627\u0647\u0627 \u0648\u062a\u062c\u0627\u0648\u0628 \u0645\u0646 \u0627\u0646\u0634\u062f \u0639\u0646\u0643 \u061f\ud83d\ude2d\ud83d\udc94"
+    }
+}
+Text decoded UTF-8: @zjk95x الگاها وتجاوب من انشد عنك ؟😭💔
+{
+    "data": {
+        "id": "1460737042049085448",
+        "text": "RT @moxiSL: peep this ridiculous comeback i did on riddles to win game 3 at mainstage lmao https://t.co/HcANWVprZx"
+    }
+}
+Text decoded UTF-8: RT @moxiSL: peep this ridiculous comeback i did on riddles to win game 3 at mainstage lmao https://t.co/HcANWVprZx
+{
+    "data": {
+        "id": "1460737042045095937",
+        "text": "\u6b21\u306e\u6e58\u5357\u53f0\u884c\u306e\u30d0\u30b9\u306f7\u664232\u5206(\u30c4\u30a4\u30f3\u30e9\u30a4\u30ca\u30fc)\u30017\u664235\u5206\u30017\u664240\u5206(\u30c4\u30a4\u30f3\u30e9\u30a4\u30ca\u30fc)\u30017\u664245\u5206(\u30c4\u30a4\u30f3\u30e9\u30a4\u30ca\u30fc)\u30017\u664247\u5206(\u7b39\u4e45\u4fdd)\u30017\u664255\u5206(\u30c4\u30a4\u30f3\u30e9\u30a4\u30ca\u30fc)\u30018\u664202\u5206(\u7b39\u4e45\u4fdd)\u30018\u664208\u5206\u30018\u664212\u5206(\u30c4\u30a4\u30f3\u30e9\u30a4\u30ca\u30fc)\u3067\u3059\u3002"
+    }
+}
+Text decoded UTF-8: 次の湘南台行のバスは7時32分(ツインライナー)、7時35分、7時40分(ツインライナー)、7時45分(ツインライナー)、7時47分(笹久保)、7時55分(ツインライナー)、8時02分(笹久保)、8時08分、8時12分(ツインライナー)です。
+{
+    "data": {
+        "id": "1460737042040889344",
+        "text": "\u305d\u308d\u305d\u308d\u7686\u69d8\u304a\u304b\u3048\u308a\u306b\u306a\u3089\u308c\u305f\u9803\u3067\u3057\u3087\u3046\u304b\uff1f\u304a\u304b\u3048\u308a\u306a\u3055\u3044\u307e\u305b\u3002"
+    }
+}
+Text decoded UTF-8: そろそろ皆様おかえりになられた頃でしょうか？おかえりなさいませ。
+{
+    "data": {
+        "id": "1460737042053316612",
+        "text": "@w2sbeth she\u2019s so weird \u2026."
+    }
+}
+Text decoded UTF-8: @w2sbeth she’s so weird ….
+{
+    "data": {
+        "id": "1460737042057502721",
+        "text": "Looks like George Kittle wasn\u2019t the only Niner to get a nasty pancake last night. Kyle Juszczyk got him one. https://t.co/2xnzZE14uJ"
+    }
+}
+Text decoded UTF-8: Looks like George Kittle wasn’t the only Niner to get a nasty pancake last night. Kyle Juszczyk got him one. https://t.co/2xnzZE14uJ
+{
+    "data": {
+        "id": "1460737042040692743",
+        "text": "RT @xindxii: Rt if you would hit https://t.co/weyOHbgauG"
+    }
+}
+Text decoded UTF-8: RT @xindxii: Rt if you would hit https://t.co/weyOHbgauG
+{
+    "data": {
+        "id": "1460737046222311424",
+        "text": "RT @fairluvd: Controlling your anger at work is a job in itself"
+    }
+}
+Text decoded UTF-8: RT @fairluvd: Controlling your anger at work is a job in itself
+{
+    "data": {
+        "id": "1460737042028060678",
+        "text": "@CRYPTOFIED1 https://t.co/hcggocsdOM"
+    }
+}
+Text decoded UTF-8: @CRYPTOFIED1 https://t.co/hcggocsdOM
+{
+    "data": {
+        "id": "1460737042049118212",
+        "text": "@BrittesMath dorme matheus"
+    }
+}
+Text decoded UTF-8: @BrittesMath dorme matheus
+{
+    "data": {
+        "id": "1460737042036531210",
+        "text": "RT @spurtmagoo: Well this comes as no surprise https://t.co/ZGHrDRhiQQ"
+    }
+}
+Text decoded UTF-8: RT @spurtmagoo: Well this comes as no surprise https://t.co/ZGHrDRhiQQ
+{
+    "data": {
+        "id": "1460737046251597827",
+        "text": "RT @tweetsoku1: \u3010\u97d3\u56fd\u3011\u300c\u65e5\u672c\u4eba\u3069\u3082\u3092\u7686\u25cb\u3057\u306b\u3057\u3088\u3046\u300d\uff5e\u5c0f\u5b66\u751f\u306e\u53cd\u65e5\u30dd\u30b9\u30bf\u30fc\uff65\uff65\uff65\u60c5\u7dd2\u7684\u8650\u5f85\u8ad6 https://t.co/XSe0YtJLAf"
+    }
+}
+Text decoded UTF-8: RT @tweetsoku1: 【韓国】「日本人どもを皆○しにしよう」～小学生の反日ポスター･･･情緒的虐待論 https://t.co/XSe0YtJLAf
+{
+    "data": {
+        "id": "1460737042036543489",
+        "text": "ABSOLUTELY LOVE IT!!!!! GO BIDEN!!! https://t.co/6fX8sVfRSi"
+    }
+}
+Text decoded UTF-8: ABSOLUTELY LOVE IT!!!!! GO BIDEN!!! https://t.co/6fX8sVfRSi
+{
+    "data": {
+        "id": "1460737042057502732",
+        "text": "RT @amadoit__: bruh. he just said 'fuck it,' and smashed it upper 90. sometimes you gotta hold your hands up and say 'respect.' \u00af\\_(\u30c4)_/\u00af\u2026"
+    }
+}
+Text decoded UTF-8: RT @amadoit__: bruh. he just said 'fuck it,' and smashed it upper 90. sometimes you gotta hold your hands up and say 'respect.' ¯\_(ツ)_/¯…
+{
+    "data": {
+        "id": "1460737046251970563",
+        "text": "\uc544\uc9c1\ub3c4 \uc790\ub0d0? \ub0b4\uac00 \uae68\uc6cc\uc904\uac70\ub77c\uace0 \uc0dd\uac01\ud588\ub2e4\uba74 \uc624\uc0b0\uc774\ub2e4. \uc790\ub294 \uc5bc\uad74\uc5d0 \ub099\uc11c\ub098 \ud574\uc8fc\uc9c0."
+    }
+}
+Text decoded UTF-8: 아직도 자냐? 내가 깨워줄거라고 생각했다면 오산이다. 자는 얼굴에 낙서나 해주지.
+{
+    "data": {
+        "id": "1460737046239006720",
+        "text": "RT @Darkskinbrotha1: The thickness https://t.co/Ji2K1bI4F2"
+    }
+}
+Text decoded UTF-8: RT @Darkskinbrotha1: The thickness https://t.co/Ji2K1bI4F2
+{
+    "data": {
+        "id": "1460737042040729603",
+        "text": "@MyDinnerWAndrei @MattZeitlin @jessehawken Please give Donald O'Connor the respect he deserves https://t.co/N8CCtzEftx"
+    }
+}
+Text decoded UTF-8: @MyDinnerWAndrei @MattZeitlin @jessehawken Please give Donald O'Connor the respect he deserves https://t.co/N8CCtzEftx
+{
+    "data": {
+        "id": "1460737042040733699",
+        "text": "Solo trajeron muy mala suerte para el pa\u00eds @RonnyAleagaS @MashiRafael @ppsesa al no hacerse cargo de las mafias, m\u00ednimo tambi\u00e9n ustedes trabajan con ellos y tener \"controlado\" el asunto pero lo \u00fanico que hay sangre derramada. @VickyDesintonio #LosGolpistas #LosGolpistas https://t.co/lczuTdz4fI"
+    }
+}
+Text decoded UTF-8: Solo trajeron muy mala suerte para el país @RonnyAleagaS @MashiRafael @ppsesa al no hacerse cargo de las mafias, mínimo también ustedes trabajan con ellos y tener "controlado" el asunto pero lo único que hay sangre derramada. @VickyDesintonio #LosGolpistas #LosGolpistas https://t.co/lczuTdz4fI
+{
+    "data": {
+        "id": "1460737046222450692",
+        "text": "Si gana Panam\u00e1 dejo de tomar."
+    }
+}
+Text decoded UTF-8: Si gana Panamá dejo de tomar.
+{
+    "data": {
+        "id": "1460737046222622720",
+        "text": "\u5c0f\u5800\u3001\u4ffa\u306f\u306a\u3001\u4f55\u304c\u3042\u3063\u3066\u3082\u304a\u524d\u306e\u5473\u65b9\u3060\u3002"
+    }
+}
+Text decoded UTF-8: 小堀、俺はな、何があってもお前の味方だ。
+{
+    "data": {
+        "id": "1460737046234939401",
+        "text": "RT @333_alshahen: \u064a\u0627\u0648\u0627\u0635\u0644 \u0627\u0644\u062d\u0628\u0644\u0627\u0646 \u0633\u0644\u0651\u0645 \u0639\u0644\u064a\u0647\u0645..\n\u0623\u0647\u0644 \u0627\u0644\u0645\u0648\u0627\u0642\u0641 \u0648\u0627\u0644\u0633\u0637\u0631 \u0648\u0627\u0644\u0631\u062c\u0648\u0644\u0647\u060c\u060c\n\u0643\u0623\u0646 \u0643\u0644 \u0627\u0644\u0637\u064a\u0628 \u0642\u0636\u0628\u0629 \u064a\u062f\u064a\u0647\u0645\u060c\u060c\n\u062a\u0627\u0631\u064a\u062e \u0648\u0627\u0644\u062a\u0627\u0631\u064a\u062e \u0644\u0627\u0632\u0645 \u0646\u0642\u0648\u0644\u0647\u060c\u060c\n\n\u064a\u0633\u062a\u0627\u0647\u0644\u0648\u0646\u2026"
+    }
+}
+Text decoded UTF-8: RT @333_alshahen: ياواصل الحبلان سلّم عليهم..
+أهل المواقف والسطر والرجوله،،
+كأن كل الطيب قضبة يديهم،،
+تاريخ والتاريخ لازم نقوله،،
+
+يستاهلون…
+{
+    "data": {
+        "id": "1460737046226505730",
+        "text": "RT @gemhost: $25 GIVEAWAY \n\n\u2022 Retweet &amp; Follow @Zaaid08 \n\nEnds in 3 hours"
+    }
+}
+Text decoded UTF-8: RT @gemhost: $25 GIVEAWAY 
+
+• Retweet &amp; Follow @Zaaid08 
+
+Ends in 3 hours
+{
+    "data": {
+        "id": "1460737046230695938",
+        "text": "RT @juliaioffe: There's lucky\u2014and then there's Kyle-Rittenhouse-getting-this-judge lucky."
+    }
+}
+Text decoded UTF-8: RT @juliaioffe: There's lucky—and then there's Kyle-Rittenhouse-getting-this-judge lucky.
+{
+    "data": {
+        "id": "1460737046255865857",
+        "text": "RT @LimitedYu: \u60c5\u5831\u89e3\u7981\u203c\ufe0f\n\n\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \uff5e\u6c5f\u6c34\u6563\u82b1\u96ea\uff5e \u306b\u5927\u5305\u5e73\u5f79\u3067\u51fa\u6f14\u3044\u305f\u3057\u307e\u3059\u3002\n\n\u305a\u3063\u3068\u61a7\u308c\u3066\u3044\u305f\u5200\u5263\u7537\u58eb\u3068\u3057\u3066\u5200\u30df\u30e5\u306e\u821e\u53f0\u306b\u7acb\u3066\u308b\u3068\u601d\u3046\u3068\u3001\u4eca\u304b\u3089\u80f8\u304c\u8e8d\u308a\u307e\u3059\u3002\n\n\u7cbe\u4e00\u676f\u52aa\u3081\u3055\u305b\u3066\u3044\u305f\u3060\u304d\u307e\u3059\u306e\u3067\u3069\u3046\u305e\u3088\u308d\u3057\u304f\u304a\u9858\u3044\u3057\u307e\u3059\u3002\n#\u5200\u30df\u30e5\u3000#\u2026"
+    }
+}
+Text decoded UTF-8: RT @LimitedYu: 情報解禁‼️
+
+ミュージカル『刀剣乱舞』 ～江水散花雪～ に大包平役で出演いたします。
+
+ずっと憧れていた刀剣男士として刀ミュの舞台に立てると思うと、今から胸が躍ります。
+
+精一杯努めさせていただきますのでどうぞよろしくお願いします。
+#刀ミュ　#…
+{
+    "data": {
+        "id": "1460737046247583753",
+        "text": "Quiero ser flaca y tener un cuerpo lindooooo"
+    }
+}
+Text decoded UTF-8: Quiero ser flaca y tener un cuerpo lindooooo
